@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.qqqsmh.agent.return-first-reports</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>__ETF_RUNTIME__/.venv/bin/python3</string>
+		<string>__ETF_RUNTIME__/agent/run_notifications.py</string>
+	</array>
+	<key>StandardErrorPath</key>
+	<string>__ETF_RUNTIME__/logs/reports.stderr.log</string>
+	<key>StandardOutPath</key>
+	<string>__ETF_RUNTIME__/logs/reports.stdout.log</string>
+	<key>StartInterval</key>
+	<integer>60</integer>
+	<key>WorkingDirectory</key>
+	<string>__ETF_RUNTIME__</string>
+</dict>
+</plist>

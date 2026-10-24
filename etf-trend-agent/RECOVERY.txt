@@ -1,0 +1,1 @@
+Recovery maintenance only. The plist is a TEMPLATE: replace __ETF_RUNTIME__ with your own accepted runtime. Never load it before explicit local authorization and fresh account acceptance. No private configuration or activation receipt is included.

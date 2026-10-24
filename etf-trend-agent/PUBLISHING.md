@@ -1,0 +1,3 @@
+Agent Mode source for the Averra website, release 2026.10.24-RF-50200-audit1.
+The public desktop packages are read-only; they use lazy calendar imports in recovery to retain the bundled stdlib runtime. The standalone full source keeps production recovery logic unchanged. Trading modules match the production snapshot except documented personal path redaction. Public deployment.py retains the existing 60-second recovery schedule template; the expired owner-only catchup script is excluded. The indicator companion stays outside trading imports.
+No third-party scraper code or new market data was added. Retained audit/ is prior public historical/synthetic evidence, not private broker records.

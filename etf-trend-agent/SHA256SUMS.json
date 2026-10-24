@@ -1,0 +1,426 @@
+{
+  "VERSION.json": {
+    "sha256": "0667ad6bdb3481139cf8c84c2a67f1c64f1373c1322b2c3a5afb549f48cad60a",
+    "bytes": 658
+  },
+  "PUBLISHING.md": {
+    "sha256": "c319c8f94181a7dcb21744fcf1144cdcccb6d560954a5b5b02fb58cbaaa2e39c",
+    "bytes": 696
+  },
+  "RECOVERY.txt": {
+    "sha256": "c26730d4b798cd1391293fea6b93e637e733be12e769ed0fc4cec3ef10da8934",
+    "bytes": 248
+  },
+  "com.qqqsmh.agent.return-first-reports.plist": {
+    "sha256": "40bdcaa09f0ea765be7eaadf83adedeae0100a989c3f260e6f6e8d9ca0340263",
+    "bytes": 711
+  },
+  "INSTALL.txt": {
+    "sha256": "dda24f66a21bc32f91dd7ef5bbdd8f9f5081ba675d70046dbdab8df1cb12d1bc",
+    "bytes": 7840
+  },
+  ".gitignore": {
+    "sha256": "b5150fe0679d9b4ddc0c965485b1e603980825c584ea9c7d0e268cc6f552e5eb",
+    "bytes": 180
+  },
+  "README_EN.md": {
+    "sha256": "da63fd220f6ec9727f04694ade0edde292c44871c3e893adb5862f2ce47b4ca4",
+    "bytes": 1390
+  },
+  "com.qqqsmh.agent.return-first.plist": {
+    "sha256": "d1ef15ab32295db304c2677e91477a40f885898b5ce857bf15449311e05ef388",
+    "bytes": 1135
+  },
+  "README_ZH.md": {
+    "sha256": "1ece4ee963fb4ec11bb6a84ef95fe82cda5693cac927e6439d52856fb2f43e77",
+    "bytes": 2153
+  },
+  "agent/OPERATIONS.md": {
+    "sha256": "5de3cc0a94d757509ba426c197d47295cb043e854ebb60a35f437a42526eed66",
+    "bytes": 2576
+  },
+  "agent/pytest.ini": {
+    "sha256": "502a06c33337c28d08eb7fc2e6f07c39d7d4d70481cbaa955942169b8c13847e",
+    "bytes": 55
+  },
+  "agent/requirements.txt": {
+    "sha256": "41cdb002ef87dc5387a6711eb577c970f05265f6515b6acd2b52d64927461355",
+    "bytes": 133
+  },
+  "agent/deployment.py": {
+    "sha256": "c1fa1088ae69604ed0ea00aa80986c6a4575e2fd212f201e6fc8d4d0ed5ce585",
+    "bytes": 3811
+  },
+  "agent/run_agent.py": {
+    "sha256": "0a0b4e8522af31879f2f9b42b3c8930663062370dd95add34b4e39c42bb202ae",
+    "bytes": 7466
+  },
+  "agent/run_notifications.py": {
+    "sha256": "ad18749d781a29f79a0f3cee224b30a25b3d6ee3454a16db04ada2c5d9add010",
+    "bytes": 163
+  },
+  "agent/rollback.py": {
+    "sha256": "294a9eeb9ea7aa5a0440cfc355d39b8b3c2350a10c923cf6bf56955c74454956",
+    "bytes": 3649
+  },
+  "agent/README.md": {
+    "sha256": "46a08af4abd0625c0e2e3d8aedb27afed02afcb1ab56818d735095a1e006462c",
+    "bytes": 1877
+  },
+  "agent/requirements-dev.txt": {
+    "sha256": "8636f9ab1a075be9f3039e2a6471837259c4f36b625bcaf7a3d9a1edd2419c6d",
+    "bytes": 34
+  },
+  "agent/agent_ops.py": {
+    "sha256": "57441eac57eb1d466729fade99d03b2f3701fe55ab4ee75b7110150c435b71ba",
+    "bytes": 10853
+  },
+  "agent/ops_scopes.json": {
+    "sha256": "06cbaee719c93d51e14e9f8056b2e9b46bed137c090184cb979f44e07e0a21c3",
+    "bytes": 440
+  },
+  "agent/AGENTS.md": {
+    "sha256": "338c96086761b7b9ef0c80a7ea9042370f38a9544cea05a34dbcd53c38885332",
+    "bytes": 172
+  },
+  "agent/qqq_mcp_adapter.py": {
+    "sha256": "e72109b1580e680e943e0c81a76a7ed2074f57aeef8901f64e54064bd3c423db",
+    "bytes": 108539
+  },
+  "audit/reference_engine.py": {
+    "sha256": "10d23c7cfcb6eab0301bbfa5817d6c2e51022d0fc044e185b151d35c9399c681",
+    "bytes": 11483
+  },
+  "audit/test_preview.py": {
+    "sha256": "4903bd1d8fc3614550e186df5357033c395975b00de9f35d34c3670b62bb2546",
+    "bytes": 5664
+  },
+  "audit/inputs.py": {
+    "sha256": "cc9c328b58d80eaa2ce6dcdd1dbf71721274c50987470a32b3ca20b17f9edfc1",
+    "bytes": 2148
+  },
+  "audit/example-hypothetical.json": {
+    "sha256": "04f47b30b806be1c27a1c3c785f7f0a06a0905f6d1a2648fa5e056a997a3c728",
+    "bytes": 609
+  },
+  "audit/README.txt": {
+    "sha256": "08335e392b3eaf79a1b72007cf29d03d3aca3827f953987b72cf19dbadf2087c",
+    "bytes": 385
+  },
+  "audit/reference-orders.json": {
+    "sha256": "a48050ca99098717730e4635aff8668c3ed32c1d41f166adc9c0489616e74135",
+    "bytes": 109927
+  },
+  "audit/reference-summary.json": {
+    "sha256": "9486c7112013391d22740f496d2ad04aec0d4211610ed5918a2c9da9b596a8a0",
+    "bytes": 842
+  },
+  "audit/data/SMH.csv": {
+    "sha256": "2d1a86ada39c5595a40005dde3e53adeccf86e3efc7a4403f00eeee568a1f62d",
+    "bytes": 357368
+  },
+  "audit/data/TQQQ.csv": {
+    "sha256": "a6b0fa25c542bd140e5a81a0d8606089e83bfd52df7ff97c89f92d9eb2cd7502",
+    "bytes": 363716
+  },
+  "audit/data/QQQ.csv": {
+    "sha256": "a4276f502f1f68efead860fe6170d0b47f1efde47df1337219888ac53d7818c7",
+    "bytes": 359901
+  },
+  "audit/data/manifest.json": {
+    "sha256": "502e8862cf81d35ba8010ec6dfc50491686c39c94339f5e6a1f5c0066a8f6397",
+    "bytes": 1355
+  },
+  "agent/tests_return_first/conftest.py": {
+    "sha256": "6ce0a08a9718504f8921696b4044e0332cf10e057386b59bef67eb12c71e3dcf",
+    "bytes": 2447
+  },
+  "agent/tests_return_first/test_intraday_limits.py": {
+    "sha256": "b6d3da5c3be3b2ef3829da6274fb5d58e4f724c92e2f7ae75153ccb7bef93de5",
+    "bytes": 11643
+  },
+  "agent/tests_return_first/test_sma100.py": {
+    "sha256": "c10679cf744bbfacc1b93d09751379c61ee96c328e6b54f0510912ba47334a53",
+    "bytes": 676
+  },
+  "agent/tests_return_first/test_price_levels_display.py": {
+    "sha256": "a5bcdb61e8e160b5f661a4464e22db50a256ae8f3ac3e17807cea3abab090ead",
+    "bytes": 5984
+  },
+  "agent/tests_return_first/test_reference_parity.py": {
+    "sha256": "f3ca62e0019d0253a3e763989c122864d44e3bc580ee1d20b7d1d11ec16ed45c",
+    "bytes": 1262
+  },
+  "agent/tests_return_first/test_restored_50200.py": {
+    "sha256": "a9016f8305af6eda60d77ff7d0ff5466eb83fa3edb6ade1db20d2c32264161ee",
+    "bytes": 5581
+  },
+  "agent/tests_return_first/test_recovery.py": {
+    "sha256": "ac2c7dc128dd96e76bf66c5bc53e2cc9a2f4127a654b11b257d0d70f998378b8",
+    "bytes": 7063
+  },
+  "agent/tests_return_first/test_manual_orders.py": {
+    "sha256": "fb0a910ae99bf5963cd393e5c6ed0df1ad457be0e2a6dc744163fc54c7b70416",
+    "bytes": 5613
+  },
+  "agent/tests_return_first/test_stop_loss.py": {
+    "sha256": "bd4dd568fec8100470931eb65d86a54f8ad965b86d15f634e1f6ce3c58e477a2",
+    "bytes": 5233
+  },
+  "agent/tests_return_first/test_integration.py": {
+    "sha256": "ab65a37604572bd7a8b42960884a1c07e37a7852ba31a1f4021f66eeca94654f",
+    "bytes": 25792
+  },
+  "agent/tools/v1_state_store.py": {
+    "sha256": "975a74643bf6c30dfe9a4cc6fb2385f8dce94b23f0ecb5faa6699c9b8b3dbdb0",
+    "bytes": 33808
+  },
+  "agent/tools/v1_cash.py": {
+    "sha256": "618cac6d6216ac84a14119a76df76e82733e561d2fb1309db6b806b33e5c2af0",
+    "bytes": 10302
+  },
+  "agent/tools/v1_read_only_adapter.py": {
+    "sha256": "79357c701f6f86d611ead78bf92af71deaf75c75aa40b172bec4ad0a7c007fb3",
+    "bytes": 721
+  },
+  "agent/tools/cash_regime_state.py": {
+    "sha256": "0e159754499e5f704ed44693707e04bf2a8859f283f7721f856b5e3d7e571900",
+    "bytes": 6140
+  },
+  "agent/tools/final_validation.py": {
+    "sha256": "b2c5a6c95ab1e9cc591badec5ae4ef7a4e1a9ffbb4bc9a02ddd8fd1772354ff8",
+    "bytes": 5661
+  },
+  "agent/tools/volatility_context.py": {
+    "sha256": "8561d8bf35d4a16d5270a18dbd41d6f6f7fc68cec7993f9d0985c9a736575481",
+    "bytes": 16664
+  },
+  "agent/tools/quote_provider.py": {
+    "sha256": "1b4f773482ea021f47a91447af55cd255f3640720756a43b09579a5ca825d343",
+    "bytes": 23376
+  },
+  "agent/tools/scheduler_guard.py": {
+    "sha256": "eb04d5c5cb8d0d9d3431bc9bc9c322d9ce362cbf0516adb21507822c5d1eccf4",
+    "bytes": 1932
+  },
+  "agent/tools/v1_observed_snapshot.py": {
+    "sha256": "522c92233631924a62b67f6ec2e6ae80edfd1c1be143a7cb2a9c2a3ab8842104",
+    "bytes": 12202
+  },
+  "agent/tools/v1_execution.py": {
+    "sha256": "0be49e4e4ae131488c0aa3e2a78d321834d6a10a594a3cbde9b584f5db63a1cd",
+    "bytes": 28684
+  },
+  "agent/tools/robinhood_runtime.py": {
+    "sha256": "8b5f2d721b1ad9ce298ac85703575927f9d7a19c6e5ee1dd1244b4bdc6c27772",
+    "bytes": 61572
+  },
+  "agent/tools/telegram_templates.py": {
+    "sha256": "4b5adb04ca6433f432a0fc7a9873e511160361080db389760da9bca58c34eae7",
+    "bytes": 19524
+  },
+  "agent/tools/daily_history.py": {
+    "sha256": "b32319bd90dd96115090e76d7e18107519ca9aaa962b4e37db5a74bdd5cacce5",
+    "bytes": 3226
+  },
+  "agent/tools/account_sync.py": {
+    "sha256": "0cc0f06f9326ebf7b35a3b7b17a18089df5ac096eb434ecd0bb227ddc347250c",
+    "bytes": 11150
+  },
+  "agent/tools/run_live_cycle.py": {
+    "sha256": "11ba8c6518abcc96d705fc66a0262daf5c3f6ab9e2561144761d7b8de482b4a0",
+    "bytes": 26390
+  },
+  "agent/tools/telegram_delivery.py": {
+    "sha256": "bc9ef47c312205b0b3cd5a2fe7fca2ea06cb39b7925297e3a52d86da240f92db",
+    "bytes": 924
+  },
+  "agent/tools/drawdown_stress_monitor.py": {
+    "sha256": "81781ae58d40d8d96b0c9f2d86fe3cf35c0001a66c4b2f7b9c66484651743b4f",
+    "bytes": 50176
+  },
+  "agent/tools/approval_compatibility.py": {
+    "sha256": "f6fd8d44459bdd7b3723075fb2fbbe4ff9fb87dfc3ceb8e095b69202f7074976",
+    "bytes": 3504
+  },
+  "agent/tools/migration_rehearsal.py": {
+    "sha256": "7b2db59fa4574919f409a972d8d19d61bd13988ddc3295dbd79bc3e3d720cd16",
+    "bytes": 7220
+  },
+  "agent/tools/report_only.py": {
+    "sha256": "8013d602a667c4e7b4b85eef9e5af1e83f520b409b7d528d1a583bfd73af2c34",
+    "bytes": 842
+  },
+  "agent/tools/ops_utils.py": {
+    "sha256": "ef60ed49185f96e07830f037896dd42fbedb62c352416df23d794a5c51c88687",
+    "bytes": 9445
+  },
+  "agent/broker/unified.py": {
+    "sha256": "57f2d7a868c233b7ec501b4b455301505aae753e26a11572571099238519e70c",
+    "bytes": 4745
+  },
+  "agent/broker/__init__.py": {
+    "sha256": "55090314966b56677ab0387662b8d79bed45967b4516f72a2d094dfc86856ea4",
+    "bytes": 74
+  },
+  "agent/broker/live_safety.py": {
+    "sha256": "c1b054807f7f7aca37e8547e44d4f6c1375c48ec94248d620a53896608b25b1c",
+    "bytes": 593
+  },
+  "agent/config/unified_policy.json": {
+    "sha256": "8ace3ea10c2cc346554c2b558393e0ec20a54a5650f9b119f3303a482b176a19",
+    "bytes": 965
+  },
+  "agent/config/unified.py": {
+    "sha256": "a7ea0d8811abdf77942c896c976869517214936606fc815e5036219110105adb",
+    "bytes": 6983
+  },
+  "agent/config/production.py": {
+    "sha256": "57ef5a3804b5ac1819e77f3f667c18e106c1421e69e2cd792e6c805a87569d56",
+    "bytes": 5338
+  },
+  "agent/config/cash_regime_policy.json": {
+    "sha256": "de9d6b303c37e8843c3445aa0d800d41a9ce8f0ed505de88a58bfb5f06ffb831",
+    "bytes": 1241
+  },
+  "agent/scripts/validate_robinhood_read_only.py": {
+    "sha256": "524078a0549c669b5788191f64792d9f90982e68233f93e18cf398a554d8ca0f",
+    "bytes": 40967
+  },
+  "agent/scripts/validate_v1_restricted_read_only.py": {
+    "sha256": "ec1832ed58a49cad29b4a0bfd1db435002ed4fb1f7cb7d14903068be3b8ea31f",
+    "bytes": 21735
+  },
+  "agent/etf/service_reports.py": {
+    "sha256": "4401c94a37559a7bc44bbe2f97fb981415ec5f67194e02b363247d94529f8a57",
+    "bytes": 10868
+  },
+  "agent/etf/policy.json": {
+    "sha256": "9b42ad3a3d28fb16191587878b073819f0530762de6cc461fab8db61345ceedd",
+    "bytes": 1079
+  },
+  "agent/etf/cycle.py": {
+    "sha256": "efcaebeec0357508244ea5cfcdea7437a51293fdcd04d09be222c88e2b9ba723",
+    "bytes": 6617
+  },
+  "agent/etf/telegram_reports.py": {
+    "sha256": "adaf886dc4b2b7a6819924cec68d393f1a9270f5153a3f3c5ac6dbc1b0c5db8e",
+    "bytes": 9344
+  },
+  "agent/etf/buy_limits.py": {
+    "sha256": "de98fdf22d5a90ee6fbe6f38bedd3a1e6da62d4a6d186de8e0c7324dd335631f",
+    "bytes": 3543
+  },
+  "agent/etf/execution.py": {
+    "sha256": "9c01cbd32666960e2eb1135f238ecfc5dec202ed5a7fcc865481d3d298100e2c",
+    "bytes": 7180
+  },
+  "agent/etf/journal.py": {
+    "sha256": "0c70bdddb86d1ff723d9ac64ec48c50b1a0dee5ec2054bbd59ebda6156c83940",
+    "bytes": 20197
+  },
+  "agent/etf/stop_loss.py": {
+    "sha256": "331d9e62006055353622721cf474b1a2efe52a0341ba7809ade03e55a1f9a651",
+    "bytes": 1282
+  },
+  "agent/etf/recovery.py": {
+    "sha256": "6608cf1b07dcf53484b71b56d6bd5cba05f2b52f90521f6bc5cc502c1342feca",
+    "bytes": 1866
+  },
+  "agent/etf/reference_planner.py": {
+    "sha256": "82289aac09da40ae16272432a4d663b325bf7ab145d74e45800b2bfbff817915",
+    "bytes": 4583
+  },
+  "agent/etf/operational.py": {
+    "sha256": "b1b5c0c0eb7d6572cb39790a8c0845379fa9fc2991d5e744d543577df368d40b",
+    "bytes": 843
+  },
+  "agent/etf/reconciliation.py": {
+    "sha256": "c93cadef82d6dce6110bc89523849d0f80c562b4c72ca9cb7d350a8b9a9465af",
+    "bytes": 8866
+  },
+  "agent/etf/__init__.py": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "agent/etf/price_levels.py": {
+    "sha256": "72474c590e24d19fb35d541d4518c58585f2fa45f3b56716818ab9f623f3da5d",
+    "bytes": 3392
+  },
+  "agent/etf/runtime.py": {
+    "sha256": "8f2d1166f7a3907a8865f96802b5d93a91f7b9c758b1e918c8b84b7882794414",
+    "bytes": 5859
+  },
+  "agent/etf/intraday.py": {
+    "sha256": "7b02b4a4bd7abcdac2ac528f0b18e804f3f6ddbbbd6dca41ef01c0fadcc72189",
+    "bytes": 5624
+  },
+  "agent/etf/calendar.py": {
+    "sha256": "1cd09f219ce5bc38510c424c7e411bb337976e1c3b1d4235636cd8ff64673cc7",
+    "bytes": 2069
+  },
+  "agent/etf/funds.py": {
+    "sha256": "84d7c3e1161cd915ac042f33811ca92abf23467026b46d5d06b0a37a8c5603dc",
+    "bytes": 7574
+  },
+  "agent/etf/notice_details.py": {
+    "sha256": "46288caad9e9a377187042ecd06e5acc53c02b4b133833fc4c41559cbb734f9b",
+    "bytes": 3463
+  },
+  "agent/etf/notifications.py": {
+    "sha256": "712ec61c0b724986adf25cac463738a77903c4b6197a0009a2a5f1afb7ddae2d",
+    "bytes": 1305
+  },
+  "agent/etf/broker.py": {
+    "sha256": "340a16227c4f8fd7d4dd6144d641d1271961c2fd5513824694f812abae170e47",
+    "bytes": 10555
+  },
+  "agent/etf/backtest.py": {
+    "sha256": "daa88fa68c3e533dd4441f96a59b79b04086d9bb5a2bd6b808ae43b86d9d15ac",
+    "bytes": 8768
+  },
+  "agent/etf/history.py": {
+    "sha256": "5164cab4d1e8a0887096603a6a734f9356c0796f1049d82ed41af090aed88ac7",
+    "bytes": 3717
+  },
+  "agent/strategies/qqq_smh_agent/cash_regime_v2.py": {
+    "sha256": "e554229fcf8e93d3fba4770c9936312bf42c5ff726275ba7141165f69b4befa9",
+    "bytes": 8520
+  },
+  "agent/strategies/qqq_smh_agent/__init__.py": {
+    "sha256": "2d962e76b7a06505a8845455261141bfaa344ebfc5f86009ade7a372b00f4148",
+    "bytes": 78
+  },
+  "agent/strategies/qqq_smh_agent/indicators.py": {
+    "sha256": "fe18b110239610005fa2a2a8e0ed5a2d29ff75a6d18ee2dae2c3e2a8525a34bb",
+    "bytes": 2208
+  },
+  "agent/strategies/qqq_smh_agent/decision.py": {
+    "sha256": "181a2b0ed7f3a4e2914d1d99afc0e27e89f699d91fb05f48ffee554c47ab4d5b",
+    "bytes": 6419
+  },
+  "agent/strategies/qqq_smh_agent/smh_long_term.py": {
+    "sha256": "6bc1bba53b375a6db3c9d2be60febb83bf37f897ab163d6054108344b6d57b22",
+    "bytes": 3682
+  },
+  "agent/strategies/qqq_smh_agent/score_dynamic_v1.py": {
+    "sha256": "85996bfd72a83ff11e35823ea1af472d0b7dde658c7e91fd897ee6298e10a38b",
+    "bytes": 25458
+  },
+  "agent/strategies/qqq_smh_agent/strategy_agent.py": {
+    "sha256": "ca5ae4d0a906263fa6c150baa1c6183b822ca8044dfcddefd2c6737ac146351c",
+    "bytes": 1017
+  },
+  "tools/etf_indicator_audit/audit.py": {
+    "sha256": "46149a1eca4b4186c1bef700cf6dbb80c60cef5245e1e23c012f6c9702bbf6a0",
+    "bytes": 9970
+  },
+  "tools/etf_indicator_audit/README.md": {
+    "sha256": "dcfd97a52778675fd1882f9821bcc3f245d0557a69eaf774c1a8734ed3023008",
+    "bytes": 3808
+  },
+  "tools/etf_indicator_audit/test_audit.py": {
+    "sha256": "0a4feb32a53afe8b74a9faf3d299b940526e8e83f93492f5e7b170ae86bdf09a",
+    "bytes": 4418
+  }
+}

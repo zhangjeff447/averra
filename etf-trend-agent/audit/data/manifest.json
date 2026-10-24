@@ -1,0 +1,37 @@
+{
+  "SMH": {
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2963,
+    "sha256": "2d1a86ada39c5595a40005dde3e53adeccf86e3efc7a4403f00eeee568a1f62d",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "dividends": "ex-date only; not authoritative broker payable-date cash",
+    "retrieved_at": "2026-10-15T11:26:59.129410+00:00",
+    "source_url": "https://finance.yahoo.com/quote/SMH/history/"
+  },
+  "QQQ": {
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2963,
+    "sha256": "a4276f502f1f68efead860fe6170d0b47f1efde47df1337219888ac53d7818c7",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "dividends": "ex-date only; not authoritative broker payable-date cash",
+    "retrieved_at": "2026-10-15T11:26:59.321975+00:00",
+    "source_url": "https://finance.yahoo.com/quote/QQQ/history/"
+  },
+  "TQQQ": {
+    "source": "Yahoo Finance via yfinance",
+    "ticker": "TQQQ",
+    "auto_adjust": false,
+    "synthetic": false,
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2963,
+    "sha256": "a6b0fa25c542bd140e5a81a0d8606089e83bfd52df7ff97c89f92d9eb2cd7502",
+    "retrieved_at": "2026-10-15T22:41:56.767088+00:00",
+    "dividends": "ex-date; modeled payable after 10 trading sessions",
+    "source_url": "https://finance.yahoo.com/quote/TQQQ/history/"
+  }
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.qqqsmh.agent.return-first</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>__ETF_RUNTIME__/.venv/bin/python3</string>
+		<string>__ETF_RUNTIME__/agent/run_agent.py</string>
+		<string>--live</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>__ETF_RUNTIME__/logs/scheduler.stderr.log</string>
+	<key>StandardOutPath</key>
+	<string>__ETF_RUNTIME__/logs/scheduler.stdout.log</string>
+	<key>StartCalendarInterval</key>
+	<array>
+		<dict>
+			<key>Hour</key>
+			<integer>10</integer>
+			<key>Minute</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>12</integer>
+			<key>Minute</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>15</integer>
+			<key>Minute</key>
+			<integer>30</integer>
+		</dict>
+	</array>
+	<key>StartInterval</key>
+	<integer>60</integer>
+	<key>WorkingDirectory</key>
+	<string>__ETF_RUNTIME__</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+{
+  "description": "Hypothetical values only. Not the user's actual account or tomorrow's deposit.",
+  "snapshot": {
+    "date": "2026-10-16",
+    "quantities": {"SMH": "6.4", "QQQ": "1.6", "TQQQ": "0"},
+    "prices": {"SMH": "100", "QQQ": "100", "TQQQ": "100"},
+    "net_assets": "1000",
+    "settled_cash": "200",
+    "safe_cash": "200",
+    "settled_rotation": "0",
+    "unsettled_sales": "0",
+    "dividend_receivable": "0",
+    "unresolved_orders": false,
+    "own_settled_cash_verified": true
+  },
+  "signal": {"date": "2026-10-15", "sma50": "105", "sma200": "100"},
+  "weekly_funding_session": false
+}

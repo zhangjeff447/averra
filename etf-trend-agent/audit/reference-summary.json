@@ -1,0 +1,36 @@
+{
+  "name": "sma50-200-cash0",
+  "start": "2021-01-04",
+  "end": "2026-09-30",
+  "contributed": 30000.0,
+  "final_nav": 104306.9383415068,
+  "cash": 0.01629724463154691,
+  "unsettled": 0.0,
+  "dividend_entitlement": 33.97807112717868,
+  "max_drawdown": 0.41699157058151337,
+  "average_cash_weight": 0.05687849495876765,
+  "spent": 44370.12,
+  "sales": 13532.930080664208,
+  "dividends_paid": 837.2062165804243,
+  "slippage": 28.943842988813017,
+  "fees": 0.04,
+  "orders": 440,
+  "field": "Open",
+  "bps": 5,
+  "divmode": "legacy",
+  "lag": 0,
+  "holdings": {
+    "SMH": 81911.14401766165,
+    "QQQ": 10699.829609951506,
+    "TQQQ": 11661.970345521839
+  },
+  "config": {
+    "name": "sma50-200-cash0",
+    "kind": "tactical",
+    "signal": "goldencross",
+    "reserve": 0,
+    "reserve_cap": 0,
+    "trim": true,
+    "allocation": "gap"
+  }
+}

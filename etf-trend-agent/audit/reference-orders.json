@@ -1,0 +1,4414 @@
+[
+  {
+    "date": "2021-01-04",
+    "signal_date": "2020-12-31",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "30.00",
+    "quantity": "1.303129387135559643191084038",
+    "price": "23.0215052289962769180",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-01-04",
+    "signal_date": "2020-12-31",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "60.00",
+    "quantity": "0.5438223909562152475021297798",
+    "price": "110.33013902664183945",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-04",
+    "signal_date": "2020-12-31",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.00",
+    "quantity": "0.03171909162954446377395640563",
+    "price": "315.26754034423828125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-11",
+    "signal_date": "2021-01-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "30.65",
+    "quantity": "1.326104997061448688178842195",
+    "price": "23.112800319671632110",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-01-11",
+    "signal_date": "2021-01-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "59.12",
+    "quantity": "0.5150841539735779230763277553",
+    "price": "114.777361221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-11",
+    "signal_date": "2021-01-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.22",
+    "quantity": "0.03232765427736224392782642367",
+    "price": "316.13800099182126405",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-19",
+    "signal_date": "2021-01-15",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "32.29",
+    "quantity": "1.422931435051905568935152486",
+    "price": "22.6925902433395381365",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-01-19",
+    "signal_date": "2021-01-15",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "57.19",
+    "quantity": "0.4778384057709912024134223379",
+    "price": "119.6848125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-19",
+    "signal_date": "2021-01-15",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.51",
+    "quantity": "0.03342799562827973443667983033",
+    "price": "314.407125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-25",
+    "signal_date": "2021-01-22",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "22.09",
+    "quantity": "0.8511549755271523518623045461",
+    "price": "25.9529705343246458085",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-01-25",
+    "signal_date": "2021-01-22",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "67.57",
+    "quantity": "0.5554651675173871636660823895",
+    "price": "121.645791584014896330",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-01-25",
+    "signal_date": "2021-01-22",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.34",
+    "quantity": "0.03142146018254027311674935909",
+    "price": "329.07445866394045470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-01",
+    "signal_date": "2021-01-29",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "34.25",
+    "quantity": "1.463725598780839417606469125",
+    "price": "23.3991945133209227265",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-02-01",
+    "signal_date": "2021-01-29",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "57.11",
+    "quantity": "0.4960585680172927610286327421",
+    "price": "115.127534694671632110",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-01",
+    "signal_date": "2021-01-29",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.64",
+    "quantity": "0.02714684403690354885720116154",
+    "price": "318.26904034423828125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-08",
+    "signal_date": "2021-02-05",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "18.63",
+    "quantity": "0.6963608756378747018574375907",
+    "price": "26.7533697710037230820",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-02-08",
+    "signal_date": "2021-02-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "70.39",
+    "quantity": "0.5924117659412056415148204291",
+    "price": "118.819382137298585235",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-08",
+    "signal_date": "2021-02-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.98",
+    "quantity": "0.03294660024778774340351281720",
+    "price": "333.26655610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-16",
+    "signal_date": "2021-02-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "35.05",
+    "quantity": "1.262886951952877568624848088",
+    "price": "27.7538697710037230820",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-02-16",
+    "signal_date": "2021-02-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "51.70",
+    "quantity": "0.4006059440107493276452589232",
+    "price": "129.054500495910642030",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-16",
+    "signal_date": "2021-02-12",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "13.25",
+    "quantity": "0.03926640004221582672867836226",
+    "price": "337.43862400817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-22",
+    "signal_date": "2021-02-19",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "40.44",
+    "quantity": "1.608107807315729413667124700",
+    "price": "25.1475677289962769180",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-02-22",
+    "signal_date": "2021-02-19",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "50.85",
+    "quantity": "0.4057365421609296930001264787",
+    "price": "125.327631889343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-02-22",
+    "signal_date": "2021-02-19",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.71",
+    "quantity": "0.02666354418502846585895413702",
+    "price": "326.66325",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-01",
+    "signal_date": "2021-02-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "38.45",
+    "quantity": "1.646563168656836001155837254",
+    "price": "23.351670152664183945",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-03-01",
+    "signal_date": "2021-02-26",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "52.84",
+    "quantity": "0.4316775730634528634352882752",
+    "price": "122.406173721313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-01",
+    "signal_date": "2021-02-26",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.71",
+    "quantity": "0.02726735200920809877001572337",
+    "price": "319.42962400817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-08",
+    "signal_date": "2021-03-05",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "38.12",
+    "quantity": "1.830016814779740162001347717",
+    "price": "20.830409694671632110",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-03-08",
+    "signal_date": "2021-03-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "55.76",
+    "quantity": "0.4898667098310934430150190577",
+    "price": "113.82688164138793320",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-08",
+    "signal_date": "2021-03-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "6.13",
+    "quantity": "0.01988490402709460884827706137",
+    "price": "308.27405511474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-15",
+    "signal_date": "2021-03-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "21.17",
+    "quantity": "0.9530197442419620303429860199",
+    "price": "22.2136006393432622190",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-03-15",
+    "signal_date": "2021-03-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "67.92",
+    "quantity": "0.5846701973530262323540891224",
+    "price": "116.168055610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-15",
+    "signal_date": "2021-03-12",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.91",
+    "quantity": "0.03453100931337963147418001698",
+    "price": "315.94790354919436095",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-22",
+    "signal_date": "2021-03-19",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "35.08",
+    "quantity": "1.588513689071707406883331029",
+    "price": "22.0835364789962769180",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-03-22",
+    "signal_date": "2021-03-19",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "53.67",
+    "quantity": "0.4530099902550485270195513672",
+    "price": "118.474208415985103670",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-22",
+    "signal_date": "2021-03-19",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "11.25",
+    "quantity": "0.03567265669209263085897361016",
+    "price": "315.36759645080563905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-29",
+    "signal_date": "2021-03-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "32.43",
+    "quantity": "1.469346957759030402042447972",
+    "price": "22.0710294656753541915",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-03-29",
+    "signal_date": "2021-03-26",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "56.91",
+    "quantity": "0.4752605621480879968609828755",
+    "price": "119.744840057373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-03-29",
+    "signal_date": "2021-03-26",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.66",
+    "quantity": "0.03377610477528039125667939666",
+    "price": "315.607737213134765625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-05",
+    "signal_date": "2021-04-01",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "18.06",
+    "quantity": "0.7351990502399892732019970246",
+    "price": "24.5647760210037230820",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-04-05",
+    "signal_date": "2021-04-01",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "66.20",
+    "quantity": "0.5148175038624844326502075453",
+    "price": "128.589256393432622190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-05",
+    "signal_date": "2021-04-01",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "15.74",
+    "quantity": "0.04809138170822695415024268649",
+    "price": "327.29356988525390625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-12",
+    "signal_date": "2021-04-09",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "3.20",
+    "quantity": "0.1203537425316117180236799870",
+    "price": "26.5882882633209227265",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-04-12",
+    "signal_date": "2021-04-09",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "87.63",
+    "quantity": "0.6873819506763904312139727345",
+    "price": "127.483708168029782655",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-12",
+    "signal_date": "2021-04-09",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "9.30",
+    "quantity": "0.02766144532636945305491385841",
+    "price": "336.20802854919436095",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-19",
+    "signal_date": "2021-04-16",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "13.35",
+    "quantity": "0.4845511811526274050367923004",
+    "price": "27.5512691316604618635",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-04-19",
+    "signal_date": "2021-04-16",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "78.43",
+    "quantity": "0.6258497171102849061592703506",
+    "price": "125.317624752044678985",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-19",
+    "signal_date": "2021-04-16",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.22",
+    "quantity": "0.02413670113812995509614812189",
+    "price": "340.56020965576171875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-26",
+    "signal_date": "2021-04-23",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "31.36",
+    "quantity": "1.146988511065709938541765648",
+    "price": "27.3411631393432622190",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-04-26",
+    "signal_date": "2021-04-23",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "59.14",
+    "quantity": "0.4738881988886262311743721830",
+    "price": "124.797368110656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-04-26",
+    "signal_date": "2021-04-23",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "9.50",
+    "quantity": "0.02795434391747751642220318200",
+    "price": "339.83984843444826720",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-03",
+    "signal_date": "2021-04-30",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "25.44",
+    "quantity": "0.9351704986166480774361321290",
+    "price": "27.2035955343246458085",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-05-03",
+    "signal_date": "2021-04-30",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "66.75",
+    "quantity": "0.5455608895223199754493537474",
+    "price": "122.351145915985103670",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-03",
+    "signal_date": "2021-04-30",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.81",
+    "quantity": "0.02301122158628484377069161496",
+    "price": "339.39962599182126405",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-10",
+    "signal_date": "2021-05-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "46.96",
+    "quantity": "1.831848286172132459824626661",
+    "price": "25.6353107156753541915",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-05-10",
+    "signal_date": "2021-05-07",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "44.69",
+    "quantity": "0.3705322690679535109414092456",
+    "price": "120.610278053283688905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-10",
+    "signal_date": "2021-05-07",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.35",
+    "quantity": "0.02507911267825867601957020244",
+    "price": "332.94638877868654845",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-17",
+    "signal_date": "2021-05-14",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "44.07",
+    "quantity": "1.864267273997158615871004315",
+    "price": "23.6393142843246458085",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-05-17",
+    "signal_date": "2021-05-14",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "51.58",
+    "quantity": "0.4484730726577965213358396701",
+    "price": "115.012479331970217345",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-17",
+    "signal_date": "2021-05-14",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "4.35",
+    "quantity": "0.01339317383347246135717026172",
+    "price": "324.79231988525390625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-24",
+    "signal_date": "2021-05-21",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "29.22",
+    "quantity": "1.185404217025172213749493997",
+    "price": "24.6498195133209227265",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-05-24",
+    "signal_date": "2021-05-21",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "55.60",
+    "quantity": "0.4625236220332787153659028402",
+    "price": "120.21007652664183945",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-05-24",
+    "signal_date": "2021-05-21",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "15.17",
+    "quantity": "0.04603460854171011224836299680",
+    "price": "329.53468011474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-01",
+    "signal_date": "2021-05-28",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "24.17",
+    "quantity": "0.9304928799012084638005872767",
+    "price": "25.9754808683395381365",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-06-01",
+    "signal_date": "2021-05-28",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "60.22",
+    "quantity": "0.4796581643600123758632148228",
+    "price": "125.547743110656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-01",
+    "signal_date": "2021-05-28",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "15.62",
+    "quantity": "0.04656186839078633542151789172",
+    "price": "335.467637786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-07",
+    "signal_date": "2021-06-04",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "31.74",
+    "quantity": "1.226883412450186876833948248",
+    "price": "25.8704288263320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-06-07",
+    "signal_date": "2021-06-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "58.43",
+    "quantity": "0.4655861660372693086212144576",
+    "price": "125.497715057373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-07",
+    "signal_date": "2021-06-04",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "9.82",
+    "quantity": "0.02929441221122494778714490147",
+    "price": "335.217512786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-14",
+    "signal_date": "2021-06-11",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "3.07",
+    "quantity": "0.1119469457934399864894501334",
+    "price": "27.423704847335816055",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-06-14",
+    "signal_date": "2021-06-11",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "86.23",
+    "quantity": "0.6840230678311637831877711938",
+    "price": "126.06300",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-14",
+    "signal_date": "2021-06-11",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.70",
+    "quantity": "0.03130020165919191139904767989",
+    "price": "341.850832672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-21",
+    "signal_date": "2021-06-18",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "16.12",
+    "quantity": "0.5825524515228430266311008859",
+    "price": "27.6713280630111692460",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-06-21",
+    "signal_date": "2021-06-18",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "76.79",
+    "quantity": "0.6216719970602928624462132521",
+    "price": "123.521729084014896330",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-21",
+    "signal_date": "2021-06-18",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.10",
+    "quantity": "0.02072380318867684319146279430",
+    "price": "342.601207672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-28",
+    "signal_date": "2021-06-25",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "7.74",
+    "quantity": "0.2605416233960837232452897804",
+    "price": "29.70734541034698330",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-06-28",
+    "signal_date": "2021-06-25",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "76.74",
+    "quantity": "0.6003338124042341233886049472",
+    "price": "127.828881889343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-06-28",
+    "signal_date": "2021-06-25",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "15.52",
+    "quantity": "0.04422214474041586945811256613",
+    "price": "350.95538877868654845",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-06",
+    "signal_date": "2021-07-02",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "86.67",
+    "quantity": "0.6639077980778034887855497303",
+    "price": "130.545235725402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-06",
+    "signal_date": "2021-07-02",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "13.63",
+    "quantity": "0.03792013593353914706147951149",
+    "price": "359.4396397705078125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-12",
+    "signal_date": "2021-07-09",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "7.26",
+    "quantity": "0.2219073897489618237684956854",
+    "price": "32.716350763320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-07-12",
+    "signal_date": "2021-07-09",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "84.58",
+    "quantity": "0.6547982954342041317486804921",
+    "price": "129.169548225402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-12",
+    "signal_date": "2021-07-09",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.15",
+    "quantity": "0.02247462205030582265255216149",
+    "price": "362.631237213134765625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-19",
+    "signal_date": "2021-07-16",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "40.34",
+    "quantity": "1.324024000922096283664589264",
+    "price": "30.4677256393432622190",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-07-19",
+    "signal_date": "2021-07-16",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "59.68",
+    "quantity": "0.4905643678910339544431848823",
+    "price": "121.655798721313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-26",
+    "signal_date": "2021-07-23",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "83.06",
+    "quantity": "0.6483286901685322254593567382",
+    "price": "128.11402805328367890",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-07-26",
+    "signal_date": "2021-07-23",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.93",
+    "quantity": "0.04604625889154889815772975488",
+    "price": "367.6737352294921875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-02",
+    "signal_date": "2021-07-30",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "47.05",
+    "quantity": "1.398141492592708969071806615",
+    "price": "33.65181582069396660",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-08-02",
+    "signal_date": "2021-07-30",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "33.57",
+    "quantity": "0.2528597274675450472043281051",
+    "price": "132.761354827880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-02",
+    "signal_date": "2021-07-30",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "19.37",
+    "quantity": "0.05285661216720047599647631421",
+    "price": "366.46313877868654845",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-09",
+    "signal_date": "2021-08-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "26.40",
+    "quantity": "0.7709241367584404885973122123",
+    "price": "34.2446146659851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-08-09",
+    "signal_date": "2021-08-06",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "60.70",
+    "quantity": "0.4509414909690618194615231751",
+    "price": "134.60726328277586640",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-09",
+    "signal_date": "2021-08-06",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "12.90",
+    "quantity": "0.03498739175016626228599872136",
+    "price": "368.70424900817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-16",
+    "signal_date": "2021-08-13",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "16.14",
+    "quantity": "0.4746780562972786843332409219",
+    "price": "34.001993110656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-08-16",
+    "signal_date": "2021-08-13",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "80.26",
+    "quantity": "0.6138181081673666546801089525",
+    "price": "130.755347442626953125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-16",
+    "signal_date": "2021-08-13",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "3.61",
+    "quantity": "0.009813680121504298295004847002",
+    "price": "367.85384843444826720",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-23",
+    "signal_date": "2021-08-20",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "18.75",
+    "quantity": "0.5470518821310488540951972154",
+    "price": "34.274628444671632110",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-08-23",
+    "signal_date": "2021-08-20",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "73.14",
+    "quantity": "0.5637870825670278825895773245",
+    "price": "129.72982578277586640",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-23",
+    "signal_date": "2021-08-20",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "8.10",
+    "quantity": "0.02195214829706769594344128795",
+    "price": "368.984387786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-30",
+    "signal_date": "2021-08-27",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "18.04",
+    "quantity": "0.4939995755546884092200475105",
+    "price": "36.51825",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-08-30",
+    "signal_date": "2021-08-27",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "59.22",
+    "quantity": "0.4325202934432358962552135472",
+    "price": "136.918431106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-08-30",
+    "signal_date": "2021-08-27",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "22.74",
+    "quantity": "0.06031215421001126827469996774",
+    "price": "377.03843110656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-07",
+    "signal_date": "2021-09-03",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "90.21",
+    "quantity": "0.6588835305413292693114867101",
+    "price": "136.913423721313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-07",
+    "signal_date": "2021-09-03",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "9.80",
+    "quantity": "0.02566312784724893721539208328",
+    "price": "381.870832672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-13",
+    "signal_date": "2021-09-10",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "49.27",
+    "quantity": "1.328353349273486364837357682",
+    "price": "37.09103457069396660",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-09-13",
+    "signal_date": "2021-09-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "39.86",
+    "quantity": "0.2902738066303824408378688616",
+    "price": "137.318625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-13",
+    "signal_date": "2021-09-10",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.86",
+    "quantity": "0.02864078997688169352431433817",
+    "price": "379.1794852294921875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-20",
+    "signal_date": "2021-09-17",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "79.24",
+    "quantity": "2.339400409717692133417868001",
+    "price": "33.871927042007448165",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-09-20",
+    "signal_date": "2021-09-17",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "19.06",
+    "quantity": "0.1436633262427106107396456225",
+    "price": "132.671298225402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-20",
+    "signal_date": "2021-09-17",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "1.71",
+    "quantity": "0.004651242222366674875346637375",
+    "price": "367.64372145080563905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-27",
+    "signal_date": "2021-09-24",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "25.59",
+    "quantity": "0.7402419550490211434436808381",
+    "price": "34.56977792930603340",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-09-27",
+    "signal_date": "2021-09-24",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "60.34",
+    "quantity": "0.4472033575894260894510847407",
+    "price": "134.927430610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-09-27",
+    "signal_date": "2021-09-24",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "14.07",
+    "quantity": "0.03798748798494780117308183507",
+    "price": "370.385112213134765625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-04",
+    "signal_date": "2021-10-01",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "69.25",
+    "quantity": "2.213122083072331025077295856",
+    "price": "31.2906371183395381365",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-10-04",
+    "signal_date": "2021-10-01",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "31.23",
+    "quantity": "0.2452419319843321215246090254",
+    "price": "127.343638778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-11",
+    "signal_date": "2021-10-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "21.66",
+    "quantity": "0.6880398953537993709075550254",
+    "price": "31.480732652664183945",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-10-11",
+    "signal_date": "2021-10-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "74.69",
+    "quantity": "0.5890919278915080585683770667",
+    "price": "126.78836097335816055",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-11",
+    "signal_date": "2021-10-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "3.63",
+    "quantity": "0.01009006630661662830317658903",
+    "price": "359.75977656555173280",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-18",
+    "signal_date": "2021-10-15",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "83.71",
+    "quantity": "0.6421933727233304312578216828",
+    "price": "130.350146163940434690",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-18",
+    "signal_date": "2021-10-15",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.31",
+    "quantity": "0.04434550127867732856136162370",
+    "price": "367.79379034423828125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-25",
+    "signal_date": "2021-10-22",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "82.66",
+    "quantity": "0.6157073604193051501051543106",
+    "price": "134.252090057373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-10-25",
+    "signal_date": "2021-10-22",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "17.34",
+    "quantity": "0.04614797754153675578646094440",
+    "price": "375.747777557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-01",
+    "signal_date": "2021-10-29",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "87.88",
+    "quantity": "0.6413967451260755990634811216",
+    "price": "137.013479827880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-01",
+    "signal_date": "2021-10-29",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "12.12",
+    "quantity": "0.03133780811515438150630667189",
+    "price": "386.753277557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-08",
+    "signal_date": "2021-11-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "68.14",
+    "quantity": "0.4562753981507731730320884118",
+    "price": "149.339631889343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-08",
+    "signal_date": "2021-11-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "31.86",
+    "quantity": "0.07989582099968642908980975903",
+    "price": "398.769292327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-15",
+    "signal_date": "2021-11-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "30.02",
+    "quantity": "0.7190700819105159204588518785",
+    "price": "41.7483646659851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-11-15",
+    "signal_date": "2021-11-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "42.13",
+    "quantity": "0.2778459804179414812992991720",
+    "price": "151.630770172119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-15",
+    "signal_date": "2021-11-12",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "27.84",
+    "quantity": "0.07028386931154686836969883916",
+    "price": "396.10795866394045470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-22",
+    "signal_date": "2021-11-19",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "81.47",
+    "quantity": "0.5193359884451286192285039888",
+    "price": "156.87339566802977265",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-22",
+    "signal_date": "2021-11-19",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.53",
+    "quantity": "0.04566594988711566720036968570",
+    "price": "405.772792327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-29",
+    "signal_date": "2021-11-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "69.23",
+    "quantity": "1.665352673150753964435852584",
+    "price": "41.570774236679080275",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-11-29",
+    "signal_date": "2021-11-26",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "28.22",
+    "quantity": "0.1852543177361148372644083170",
+    "price": "152.33113238525390625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-11-29",
+    "signal_date": "2021-11-26",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "2.55",
+    "quantity": "0.006437963936637189477553092022",
+    "price": "396.08795965576171875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-12-06",
+    "signal_date": "2021-12-03",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.01",
+    "quantity": "2.655156980433596273342977351",
+    "price": "37.6663228340148923280",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-12-13",
+    "signal_date": "2021-12-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "82.71",
+    "quantity": "0.5357137307408324942495455156",
+    "price": "154.392159942626953125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-12-13",
+    "signal_date": "2021-12-10",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "17.29",
+    "quantity": "0.04342050080487394493707919909",
+    "price": "398.19900",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-12-20",
+    "signal_date": "2021-12-17",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "99.23",
+    "quantity": "2.735633895273209504552103986",
+    "price": "36.2731285686492916170",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2021-12-27",
+    "signal_date": "2021-12-23",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "101.58",
+    "quantity": "0.6564885466598975961282465409",
+    "price": "154.732326278686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2021-12-27",
+    "signal_date": "2021-12-23",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.40",
+    "quantity": "0.04617904481531989811748237620",
+    "price": "398.449125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-01-03",
+    "signal_date": "2021-12-31",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "83.50",
+    "quantity": "0.5361919314951721512411321245",
+    "price": "155.727818893432622190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-01-03",
+    "signal_date": "2021-12-31",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.49",
+    "quantity": "0.04130249248119432785559259477",
+    "price": "399.249512786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-01-10",
+    "signal_date": "2022-01-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.78",
+    "quantity": "2.912313140255051889277795815",
+    "price": "34.6047952766418454530",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-01-18",
+    "signal_date": "2022-01-14",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.918675079719303916510868046",
+    "price": "34.2621214313507083830",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-01-24",
+    "signal_date": "2022-01-21",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.712164450126758102221590578",
+    "price": "26.9384617366790772735",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-01-31",
+    "signal_date": "2022-01-28",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "46.32",
+    "quantity": "1.623027246042021174914462276",
+    "price": "28.5392621183395381365",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-01-31",
+    "signal_date": "2022-01-28",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "53.68",
+    "quantity": "0.4072965547214148209759032490",
+    "price": "131.795860725402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-02-07",
+    "signal_date": "2022-02-04",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "30.31",
+    "quantity": "1.025727195876982968097896995",
+    "price": "29.549767347335816055",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-02-07",
+    "signal_date": "2022-02-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "61.74",
+    "quantity": "0.4508101538054607268058465254",
+    "price": "136.953437004089357970",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-02-07",
+    "signal_date": "2022-02-04",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.94",
+    "quantity": "0.02212936281317697106467759614",
+    "price": "358.79930511474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-02-14",
+    "signal_date": "2022-02-11",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.01",
+    "quantity": "3.779206695905448323372752051",
+    "price": "26.4632257633209227265",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-02-22",
+    "signal_date": "2022-02-18",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "4.076265217028552735876610519",
+    "price": "24.5322604579925538360",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-02-28",
+    "signal_date": "2022-02-25",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "38.96",
+    "quantity": "1.543421737679541651522639376",
+    "price": "25.2426145420074461640",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2022-02-28",
+    "signal_date": "2022-02-25",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "42.89",
+    "quantity": "0.3217636199944751754466375759",
+    "price": "133.296610725402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-02-28",
+    "signal_date": "2022-02-25",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.15",
+    "quantity": "0.05296466969723301887844078141",
+    "price": "342.6812647705078125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2022-03-03",
+    "signal_date": "2022-03-02",
+    "symbol": "TQQQ",
+    "side": "SELL",
+    "amount": "1900.293332496864761426533004",
+    "net": "1900.283332496864761426533004",
+    "quantity": "70.74396109671076511005392945",
+    "price": "26.8615625",
+    "fee": "0.01",
+    "pay_date": "2022-03-07",
+    "reason": "TREND_EXIT"
+  },
+  {
+    "date": "2022-03-07",
+    "signal_date": "2022-03-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "1314.60",
+    "quantity": "10.27682135221266452621448098",
+    "price": "127.91893085861206680",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2022-03-07",
+    "signal_date": "2022-03-04",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "585.67",
+    "quantity": "1.735531134970944388321267909",
+    "price": "337.45865354919436095",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2023-03-13",
+    "signal_date": "2023-03-10",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "3239.47",
+    "quantity": "316.3508727966020023962125283",
+    "price": "10.2401171565055846230",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-03-13",
+    "signal_date": "2023-03-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "2128.31",
+    "quantity": "18.12582111237620152248466955",
+    "price": "117.418680610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-03-13",
+    "signal_date": "2023-03-10",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "84.13",
+    "quantity": "0.2932652767414656815757350875",
+    "price": "286.87337599182126405",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-03-20",
+    "signal_date": "2023-03-17",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "83.61",
+    "quantity": "0.6658821983430595459242490309",
+    "price": "125.56275",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-03-20",
+    "signal_date": "2023-03-17",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.40",
+    "quantity": "0.05387432975690042383331828187",
+    "price": "304.4121397705078125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-03-27",
+    "signal_date": "2023-03-24",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "86.05",
+    "quantity": "0.6738247956206451003684053944",
+    "price": "127.703819389343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-03-27",
+    "signal_date": "2023-03-24",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "13.95",
+    "quantity": "0.04474656037434464745868409589",
+    "price": "311.75580610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-03",
+    "signal_date": "2023-03-31",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "86.96",
+    "quantity": "0.6638651113475646406802304202",
+    "price": "130.99046555328367890",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-03",
+    "signal_date": "2023-03-31",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "14.81",
+    "quantity": "0.04643661326604619115981691013",
+    "price": "318.92937400817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-05",
+    "signal_date": "2023-04-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "21.51",
+    "quantity": "0.1686017368758101150767255287",
+    "price": "127.578756889343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-05",
+    "signal_date": "2023-04-04",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "2.22",
+    "quantity": "0.006975449582357350951675868773",
+    "price": "318.25905610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-10",
+    "signal_date": "2023-04-06",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "92.40",
+    "quantity": "0.7385351526159564346953702382",
+    "price": "125.112528053283688905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-10",
+    "signal_date": "2023-04-06",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.60",
+    "quantity": "0.02410956842119758046680253387",
+    "price": "315.227542327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-17",
+    "signal_date": "2023-04-14",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "92.73",
+    "quantity": "0.7420629066342386791255473508",
+    "price": "124.96245152664183945",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-17",
+    "signal_date": "2023-04-14",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.27",
+    "quantity": "0.02283943723398574760577997068",
+    "price": "318.30906889343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-24",
+    "signal_date": "2023-04-21",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "92.79",
+    "quantity": "0.7485361343319737950931171098",
+    "price": "123.96195152664183945",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-04-24",
+    "signal_date": "2023-04-21",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.21",
+    "quantity": "0.02277766195834170260077993305",
+    "price": "316.53819488525390625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-01",
+    "signal_date": "2023-04-28",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "93.47",
+    "quantity": "0.7535047618334418042751346814",
+    "price": "124.046993110656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-01",
+    "signal_date": "2023-04-28",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "6.52",
+    "quantity": "0.02023267317606777584388674297",
+    "price": "322.25104133605954530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-08",
+    "signal_date": "2023-05-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "92.78",
+    "quantity": "0.7479725009881777335766004711",
+    "price": "124.04199335861206680",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-08",
+    "signal_date": "2023-05-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.23",
+    "quantity": "0.02241295982147952995619647976",
+    "price": "322.58122343444826720",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-15",
+    "signal_date": "2023-05-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "93.88",
+    "quantity": "0.7623747323880487105222997285",
+    "price": "123.141541831970217345",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-15",
+    "signal_date": "2023-05-12",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "6.12",
+    "quantity": "0.01879186920746224257233914347",
+    "price": "325.6727647705078125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-22",
+    "signal_date": "2023-05-19",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "85.60",
+    "quantity": "0.6474250877099847366182270261",
+    "price": "132.216068893432622190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-22",
+    "signal_date": "2023-05-19",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "14.40",
+    "quantity": "0.04280387687197293546535282545",
+    "price": "336.418125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-30",
+    "signal_date": "2023-05-26",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "72.71",
+    "quantity": "0.4824007043661203206210793342",
+    "price": "150.725318893432622190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-05-30",
+    "signal_date": "2023-05-26",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "27.29",
+    "quantity": "0.07733368058716995727234022305",
+    "price": "352.88634645080563905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-06-05",
+    "signal_date": "2023-06-02",
+    "symbol": "TQQQ",
+    "side": "SELL",
+    "amount": "851.0099746584334589854250699",
+    "net": "850.9999746584334589854250699",
+    "quantity": "46.3240332634037943006436408",
+    "price": "18.37080916118621670",
+    "fee": "0.01",
+    "pay_date": "2023-06-07",
+    "reason": "HARVEST_ABOVE35_TO30"
+  },
+  {
+    "date": "2023-06-05",
+    "signal_date": "2023-06-02",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "81.43",
+    "quantity": "0.5602237474614070295692170187",
+    "price": "145.352638778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-06-05",
+    "signal_date": "2023-06-02",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.57",
+    "quantity": "0.05236780188960625946200126094",
+    "price": "354.607207672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-06-07",
+    "signal_date": "2023-06-06",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "584.32",
+    "quantity": "3.988172468384644300443372290",
+    "price": "146.513222442626953125",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2023-06-07",
+    "signal_date": "2023-06-06",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "266.68",
+    "quantity": "0.7505609860384453426338760257",
+    "price": "355.30756988525390625",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2023-06-12",
+    "signal_date": "2023-06-09",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "59.39",
+    "quantity": "3.195710223523367436800232573",
+    "price": "18.5842882633209227265",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-06-12",
+    "signal_date": "2023-06-09",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "40.61",
+    "quantity": "0.2733129529915775191056146037",
+    "price": "148.584249504089357970",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-06-20",
+    "signal_date": "2023-06-16",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.6543373157938215834799457882",
+    "price": "152.826375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-06-26",
+    "signal_date": "2023-06-23",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.6740627583648284265464922963",
+    "price": "148.354138778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-03",
+    "signal_date": "2023-06-30",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.6525430970970056262230869424",
+    "price": "153.24658316802977265",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-05",
+    "signal_date": "2023-07-03",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "2.51",
+    "quantity": "0.01647780379104372280198160362",
+    "price": "152.326125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-06",
+    "signal_date": "2023-07-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "17.49",
+    "quantity": "0.1178458932309518240141420098",
+    "price": "148.414166336059565310",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-10",
+    "signal_date": "2023-07-07",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.6682044642598430407313417445",
+    "price": "149.65479183197022735",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-17",
+    "signal_date": "2023-07-14",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "93.78",
+    "quantity": "0.5961529986664361724038683191",
+    "price": "157.308610725402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-17",
+    "signal_date": "2023-07-14",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "6.21",
+    "quantity": "0.01634254015591900031257923129",
+    "price": "379.989887786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-24",
+    "signal_date": "2023-07-21",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "99.22",
+    "quantity": "0.6440055279886724940725028001",
+    "price": "154.067000495910642030",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-31",
+    "signal_date": "2023-07-28",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "84.15",
+    "quantity": "0.5233848638719996731172364075",
+    "price": "160.78034694671632110",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-07-31",
+    "signal_date": "2023-07-28",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.63",
+    "quantity": "0.04330933266981271958858760620",
+    "price": "383.98190354919436095",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-08-07",
+    "signal_date": "2023-08-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "89.93",
+    "quantity": "0.5780389547991277673060575821",
+    "price": "155.57775",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-08-07",
+    "signal_date": "2023-08-04",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.07",
+    "quantity": "0.02692031503368735506056281891",
+    "price": "374.06694488525390625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-08-14",
+    "signal_date": "2023-08-11",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "54.01",
+    "quantity": "2.780479317545571944300844882",
+    "price": "19.4247084159851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-08-14",
+    "signal_date": "2023-08-11",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "46.00",
+    "quantity": "0.3161018388375326629769792217",
+    "price": "145.52272194671632110",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-08-21",
+    "signal_date": "2023-08-18",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "5.421753614485221708146238476",
+    "price": "18.4442169656753541915",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-08-28",
+    "signal_date": "2023-08-25",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "54.78",
+    "quantity": "2.811431199778178679348715193",
+    "price": "19.4847378816604618635",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-08-28",
+    "signal_date": "2023-08-25",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "45.22",
+    "quantity": "0.3005945804461422834180152350",
+    "price": "150.435180610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-09-05",
+    "signal_date": "2023-09-01",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "85.01",
+    "quantity": "0.5459584500164898557387601601",
+    "price": "155.70781988525390625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-09-05",
+    "signal_date": "2023-09-01",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "14.98",
+    "quantity": "0.03973913575846171307432034570",
+    "price": "376.95837400817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-09-11",
+    "signal_date": "2023-09-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "98.48",
+    "quantity": "0.6467624878683630447247997000",
+    "price": "152.266097442626953125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-09-11",
+    "signal_date": "2023-09-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "1.52",
+    "quantity": "0.004044189865835673825965442574",
+    "price": "375.84783366394045470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-09-18",
+    "signal_date": "2023-09-15",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.01",
+    "quantity": "0.6873411608625594137218813607",
+    "price": "145.502707672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-09-25",
+    "signal_date": "2023-09-22",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "5.661286949884394972496221579",
+    "price": "17.6638281869888307540",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-10-02",
+    "signal_date": "2023-09-29",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "102.73",
+    "quantity": "5.757144151415086144461985615",
+    "price": "17.8439165840148923280",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-10-04",
+    "signal_date": "2023-10-03",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "19.76",
+    "quantity": "1.135717402571485050770403283",
+    "price": "17.3986943893432622190",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-10-09",
+    "signal_date": "2023-10-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "5.460258034480619623199766771",
+    "price": "18.314152805328367890",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-10-16",
+    "signal_date": "2023-10-13",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "87.45",
+    "quantity": "0.5883964662129297047176609637",
+    "price": "148.62427805328367890",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-10-16",
+    "signal_date": "2023-10-13",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "12.54",
+    "quantity": "0.03418726010682249835978689066",
+    "price": "366.80330511474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-10-23",
+    "signal_date": "2023-10-20",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.01",
+    "quantity": "5.937631447939943373007425192",
+    "price": "16.8434165840148923280",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-10-30",
+    "signal_date": "2023-10-27",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "6.256652431973881171680700936",
+    "price": "15.9829878816604618635",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2023-11-06",
+    "signal_date": "2023-11-03",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "84.11",
+    "quantity": "0.5613887547044507796185379764",
+    "price": "149.824875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-06",
+    "signal_date": "2023-11-03",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "15.88",
+    "quantity": "0.04307325677400544163381609258",
+    "price": "368.6742352294921875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-13",
+    "signal_date": "2023-11-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "74.21",
+    "quantity": "0.4745547798784525578102738743",
+    "price": "156.37815305328367890",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-13",
+    "signal_date": "2023-11-10",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "25.79",
+    "quantity": "0.06841240706945297292916939930",
+    "price": "376.97840354919436095",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-20",
+    "signal_date": "2023-11-17",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "73.33",
+    "quantity": "0.4502325471229182464254431575",
+    "price": "162.87138828277586640",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-20",
+    "signal_date": "2023-11-17",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "26.67",
+    "quantity": "0.06904979279124697435761055031",
+    "price": "386.243012786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-27",
+    "signal_date": "2023-11-24",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "83.47",
+    "quantity": "0.5174809901090485367886203813",
+    "price": "161.300611221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-11-27",
+    "signal_date": "2023-11-24",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.53",
+    "quantity": "0.04247124422425268818597977972",
+    "price": "389.2045147705078125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-04",
+    "signal_date": "2023-12-01",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "85.40",
+    "quantity": "0.5359957383945389942391441642",
+    "price": "159.329625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-04",
+    "signal_date": "2023-12-01",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "14.60",
+    "quantity": "0.03779611952288180639811181148",
+    "price": "386.28304133605954530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-11",
+    "signal_date": "2023-12-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "81.09",
+    "quantity": "0.4956245084533675742047090466",
+    "price": "163.611763778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-11",
+    "signal_date": "2023-12-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.91",
+    "quantity": "0.04824769029536499163994375753",
+    "price": "391.9358602294921875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-18",
+    "signal_date": "2023-12-15",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "76.95",
+    "quantity": "0.4431409616834130586333798430",
+    "price": "173.646777557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-18",
+    "signal_date": "2023-12-15",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "23.05",
+    "quantity": "0.05689497240592550213928246890",
+    "price": "405.132457672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-22",
+    "signal_date": "2023-12-21",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "65.87",
+    "quantity": "0.3781566866811322277533296555",
+    "price": "174.187056106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-22",
+    "signal_date": "2023-12-21",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.59",
+    "quantity": "0.04054207615018896419760779757",
+    "price": "409.20450",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-26",
+    "signal_date": "2023-12-22",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "81.04",
+    "quantity": "0.4661036990381476702047040927",
+    "price": "173.866888778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2023-12-26",
+    "signal_date": "2023-12-22",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.96",
+    "quantity": "0.04630549722084589959143824545",
+    "price": "409.454625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-02",
+    "signal_date": "2023-12-29",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "80.84",
+    "quantity": "0.4688111246794547587130425348",
+    "price": "172.436181106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-02",
+    "signal_date": "2023-12-29",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "19.16",
+    "quantity": "0.04718713029866605146688098740",
+    "price": "406.04291633605954530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-03",
+    "signal_date": "2024-01-02",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "3.88",
+    "quantity": "0.02331265901548580663696514581",
+    "price": "166.433181106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-05",
+    "signal_date": "2024-01-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "30.90",
+    "quantity": "0.1866362008613446244558063517",
+    "price": "165.562735725402829530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-05",
+    "signal_date": "2024-01-04",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "4.68",
+    "quantity": "0.01179886751264005022680344390",
+    "price": "396.648237213134765625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-08",
+    "signal_date": "2024-01-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "83.23",
+    "quantity": "0.4969438998220209325136338136",
+    "price": "167.483693893432622190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-08",
+    "signal_date": "2024-01-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "16.77",
+    "quantity": "0.04211568029772290260722536012",
+    "price": "398.1889852294921875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-11",
+    "signal_date": "2024-01-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "1.00",
+    "quantity": "0.005768455158016754902738523714",
+    "price": "173.356639274597170470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-16",
+    "signal_date": "2024-01-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "81.61",
+    "quantity": "0.4707093228263819685741774625",
+    "price": "173.37663828277586640",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-16",
+    "signal_date": "2024-01-12",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.60",
+    "quantity": "0.04553085831558248384454955355",
+    "price": "408.514152557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-22",
+    "signal_date": "2024-01-19",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "69.36",
+    "quantity": "0.3671698439052226288613852134",
+    "price": "188.904402557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-22",
+    "signal_date": "2024-01-19",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "30.63",
+    "quantity": "0.07230507637723261979997952721",
+    "price": "423.62170866394045470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-29",
+    "signal_date": "2024-01-26",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "71.97",
+    "quantity": "0.3811680400498899435347385520",
+    "price": "188.814361221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-01-29",
+    "signal_date": "2024-01-26",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "28.04",
+    "quantity": "0.06605696309477507594922640330",
+    "price": "424.48212400817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-05",
+    "signal_date": "2024-02-02",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "69.86",
+    "quantity": "0.3607785981114573751703091472",
+    "price": "193.63676328277586640",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-05",
+    "signal_date": "2024-02-02",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "30.13",
+    "quantity": "0.07018654768376722595541766844",
+    "price": "429.284542327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-12",
+    "signal_date": "2024-02-09",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "61.75",
+    "quantity": "0.3022484885023226727299235856",
+    "price": "204.30209694671632110",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-12",
+    "signal_date": "2024-02-09",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "38.26",
+    "quantity": "0.08751974950004262971376862337",
+    "price": "437.158472442626953125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-20",
+    "signal_date": "2024-02-16",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "52.27",
+    "quantity": "0.2608672139932318017160558915",
+    "price": "200.370139274597170470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-20",
+    "signal_date": "2024-02-16",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "47.72",
+    "quantity": "0.1112965891556152674145419080",
+    "price": "428.764262786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-26",
+    "signal_date": "2024-02-23",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "48.61",
+    "quantity": "0.2307013567822291164822806306",
+    "price": "210.705306106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-02-26",
+    "signal_date": "2024-02-23",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "51.40",
+    "quantity": "0.1174001648240961459051888510",
+    "price": "437.81880610656735780",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-03-04",
+    "signal_date": "2024-03-01",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "31.19",
+    "quantity": "0.1391714856857285642892839295",
+    "price": "224.11200",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-03-04",
+    "signal_date": "2024-03-01",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "68.81",
+    "quantity": "0.1543403748900347473777641631",
+    "price": "445.83279034423828125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-03-11",
+    "signal_date": "2024-03-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.2284519731126830174122114403",
+    "price": "437.7287647705078125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-03-18",
+    "signal_date": "2024-03-15",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.2278167038603177161501942408",
+    "price": "438.94937599182126405",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-03-25",
+    "signal_date": "2024-03-22",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "51.81",
+    "quantity": "0.2299267723352928609605050404",
+    "price": "225.332611221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-03-25",
+    "signal_date": "2024-03-22",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "48.19",
+    "quantity": "0.1085918574389887445002720437",
+    "price": "443.771762786865234375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-01",
+    "signal_date": "2024-03-28",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "66.85",
+    "quantity": "0.2963041760716094281019135665",
+    "price": "225.61275",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-01",
+    "signal_date": "2024-03-28",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "33.15",
+    "quantity": "0.07446217316327418753272041491",
+    "price": "445.19248622131345155",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-02",
+    "signal_date": "2024-04-01",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "3.81",
+    "quantity": "0.1272121603461704096841378176",
+    "price": "29.9499669656753541915",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-04-04",
+    "signal_date": "2024-04-03",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "11.26",
+    "quantity": "0.04912427985055606289472131825",
+    "price": "229.214556106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-04",
+    "signal_date": "2024-04-03",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "22.54",
+    "quantity": "0.05047551432786437869722942187",
+    "price": "446.55315156555173280",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-08",
+    "signal_date": "2024-04-05",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "50.50",
+    "quantity": "1.676623929121015812329101438",
+    "price": "30.1200520420074461640",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-04-08",
+    "signal_date": "2024-04-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "12.14",
+    "quantity": "0.05395496939132357200658626592",
+    "price": "225.002444389343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-08",
+    "signal_date": "2024-04-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "37.36",
+    "quantity": "0.08459556653798988336463888289",
+    "price": "441.63070866394045470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-15",
+    "signal_date": "2024-04-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "3.56",
+    "quantity": "0.1182133170917083252514016081",
+    "price": "30.1150503816604618635",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-04-15",
+    "signal_date": "2024-04-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "96.44",
+    "quantity": "0.4308013590969878189396921651",
+    "price": "223.861875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-04-22",
+    "signal_date": "2024-04-19",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.967845290529902595930499068",
+    "price": "25.2025955343246458085",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-04-29",
+    "signal_date": "2024-04-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.564551416692651776052103220",
+    "price": "28.0540209159851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-05-06",
+    "signal_date": "2024-05-03",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "64.35",
+    "quantity": "2.240259252193621487193309654",
+    "price": "28.7243540840148923280",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-05-06",
+    "signal_date": "2024-05-03",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "35.65",
+    "quantity": "0.1624296152671711392087720793",
+    "price": "219.47968011474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-05-13",
+    "signal_date": "2024-05-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "89.16",
+    "quantity": "0.3978367958877704005140286999",
+    "price": "224.11200",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-05-13",
+    "signal_date": "2024-05-10",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "10.84",
+    "quantity": "0.02440276345628035324930091906",
+    "price": "444.2119852294921875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-05-20",
+    "signal_date": "2024-05-17",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "74.50",
+    "quantity": "0.3216951148010451617775282867",
+    "price": "231.585736221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-05-20",
+    "signal_date": "2024-05-17",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "25.49",
+    "quantity": "0.05636811529279333896097259810",
+    "price": "452.20600099182126405",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-05-28",
+    "signal_date": "2024-05-24",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "100.01",
+    "quantity": "0.2176924552124050692571144566",
+    "price": "459.409582672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-03",
+    "signal_date": "2024-05-31",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "98.74",
+    "quantity": "3.097149078347554859055805546",
+    "price": "31.8809322710037230820",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-06-03",
+    "signal_date": "2024-05-31",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "1.26",
+    "quantity": "0.002770465042900074129873067608",
+    "price": "454.797292327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-10",
+    "signal_date": "2024-06-07",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "33.58",
+    "quantity": "0.1336647454200706339562917142",
+    "price": "251.225556106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-10",
+    "signal_date": "2024-06-07",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "66.42",
+    "quantity": "0.1437503909398517615822612694",
+    "price": "462.050917327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-17",
+    "signal_date": "2024-06-14",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "49.85",
+    "quantity": "0.1840533745668559535044751514",
+    "price": "270.84534645080563905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-17",
+    "signal_date": "2024-06-14",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "50.15",
+    "quantity": "0.1045445676898167705071193247",
+    "price": "479.69972145080563905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-24",
+    "signal_date": "2024-06-21",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "78.30",
+    "quantity": "0.2992767478593399285061102336",
+    "price": "261.63075",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-06-24",
+    "signal_date": "2024-06-21",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "21.70",
+    "quantity": "0.04535772251975979193762977678",
+    "price": "478.419082672119140625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-01",
+    "signal_date": "2024-06-28",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "82.26",
+    "quantity": "0.3150149063399334815350945217",
+    "price": "261.13050",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-01",
+    "signal_date": "2024-06-28",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "17.73",
+    "quantity": "0.03691596349229404355118435719",
+    "price": "480.28002854919436095",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-08",
+    "signal_date": "2024-07-05",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "81.03",
+    "quantity": "0.2968388298432509195794153356",
+    "price": "272.97641633605954530",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-08",
+    "signal_date": "2024-07-05",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "18.98",
+    "quantity": "0.03820618047100293758138311946",
+    "price": "496.77826377868654845",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-09",
+    "signal_date": "2024-07-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "4.65",
+    "quantity": "0.01682173085590743093565083414",
+    "price": "276.42815354919436095",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-09",
+    "signal_date": "2024-07-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "1.24",
+    "quantity": "0.002484375332202410223182284934",
+    "price": "499.11943011474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-11",
+    "signal_date": "2024-07-10",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "34.78",
+    "quantity": "0.1228361084475430129458239078",
+    "price": "283.14150",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-11",
+    "signal_date": "2024-07-10",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "11.81",
+    "quantity": "0.02346412582576599167250567458",
+    "price": "503.321542327880859375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-15",
+    "signal_date": "2024-07-12",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "76.81",
+    "quantity": "0.2777454259099504836802352905",
+    "price": "276.54820866394045470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-15",
+    "signal_date": "2024-07-12",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "23.19",
+    "quantity": "0.04667326771167141951604170674",
+    "price": "496.85829034423828125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-22",
+    "signal_date": "2024-07-19",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "99.42",
+    "quantity": "0.3927680428560423345639433248",
+    "price": "253.12650",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-07-29",
+    "signal_date": "2024-07-26",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.59",
+    "quantity": "0.4146994271674755006394940987",
+    "price": "242.561222442626953125",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-08-05",
+    "signal_date": "2024-08-02",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "4.052301693797414963207505526",
+    "price": "24.6773334159851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-08-12",
+    "signal_date": "2024-08-09",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.374979765658545065113599957",
+    "price": "29.6298072710037230820",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-08-19",
+    "signal_date": "2024-08-16",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4066480642731085379522233376",
+    "price": "245.91288828277586640",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-08-26",
+    "signal_date": "2024-08-23",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4038547931999903487479992850",
+    "price": "247.613750495910642030",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-09-03",
+    "signal_date": "2024-08-30",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4184285470365235764362916846",
+    "price": "238.98943011474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-09-09",
+    "signal_date": "2024-09-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "83.16",
+    "quantity": "2.838259901406668414881348506",
+    "price": "29.299642347335816055",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-09-09",
+    "signal_date": "2024-09-06",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "16.84",
+    "quantity": "0.07704652426355360178950980045",
+    "price": "218.56923671722413360",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-09-16",
+    "signal_date": "2024-09-13",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4282532467067624323197182067",
+    "price": "233.506694389343264220",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-09-23",
+    "signal_date": "2024-09-20",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4185336711583140047649355967",
+    "price": "238.929402557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-09-30",
+    "signal_date": "2024-09-27",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4093795924069669614651565237",
+    "price": "244.272068893432622190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-07",
+    "signal_date": "2024-10-04",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "105.37",
+    "quantity": "0.4271988879682730204731043709",
+    "price": "246.653263778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-09",
+    "signal_date": "2024-10-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "34.94",
+    "quantity": "0.1380392030213158375862093036",
+    "price": "253.116500495910642030",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-09",
+    "signal_date": "2024-10-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "4.10",
+    "quantity": "0.008380267943737742580652414079",
+    "price": "489.24450",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-14",
+    "signal_date": "2024-10-11",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "84.75",
+    "quantity": "0.3276638162491634536566111302",
+    "price": "258.64924900817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-14",
+    "signal_date": "2024-10-11",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "15.25",
+    "quantity": "0.03074485981073445331082612545",
+    "price": "496.01787400817873595",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-21",
+    "signal_date": "2024-10-18",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "95.46",
+    "quantity": "0.3801286607692169851329315422",
+    "price": "251.12550",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-21",
+    "signal_date": "2024-10-18",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "4.53",
+    "quantity": "0.009179394084002094239246317034",
+    "price": "493.496625",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-28",
+    "signal_date": "2024-10-25",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "94.06",
+    "quantity": "0.3719309724816545614907226826",
+    "price": "252.896389274597170470",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-10-28",
+    "signal_date": "2024-10-25",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "5.95",
+    "quantity": "0.01193080004153668548851092520",
+    "price": "498.70922145080563905",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-11-04",
+    "signal_date": "2024-11-01",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4074437486537114726801271625",
+    "price": "245.432652557373046875",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-11-11",
+    "signal_date": "2024-11-08",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "92.36",
+    "quantity": "0.3579165565774360675046830659",
+    "price": "258.04897343444826720",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-11-11",
+    "signal_date": "2024-11-08",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "7.64",
+    "quantity": "0.01481689268175017183572496703",
+    "price": "515.62768011474609375",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-11-18",
+    "signal_date": "2024-11-15",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4181484562521079866405616241",
+    "price": "239.149513778686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-11-25",
+    "signal_date": "2024-11-22",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "99.47",
+    "quantity": "0.4035733200400097466558044585",
+    "price": "246.473181106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-12-02",
+    "signal_date": "2024-11-29",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.53",
+    "quantity": "0.4129022297094095805251615391",
+    "price": "243.471681106567377810",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-12-09",
+    "signal_date": "2024-12-06",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "98.44",
+    "quantity": "0.3996052477861334444171113963",
+    "price": "246.343111221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-12-09",
+    "signal_date": "2024-12-06",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "1.55",
+    "quantity": "0.002947817378537618758058470555",
+    "price": "525.81276278686528440",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-12-16",
+    "signal_date": "2024-12-13",
+    "symbol": "TQQQ",
+    "side": "SELL",
+    "amount": "2325.206755177451033429455356",
+    "net": "2325.196755177451033429455356",
+    "quantity": "51.2868145688831022107328075",
+    "price": "45.337320610046384220",
+    "fee": "0.01",
+    "pay_date": "2024-12-17",
+    "reason": "HARVEST_ABOVE35_TO30"
+  },
+  {
+    "date": "2024-12-16",
+    "signal_date": "2024-12-13",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "96.39",
+    "quantity": "0.3845981201016258337896919804",
+    "price": "250.62525",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-12-16",
+    "signal_date": "2024-12-13",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "3.61",
+    "quantity": "0.006768582175986649990935542190",
+    "price": "533.34655709838872190",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2024-12-17",
+    "signal_date": "2024-12-16",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "1660.74",
+    "quantity": "6.626916613265544663014757725",
+    "price": "250.605235725402829530",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2024-12-17",
+    "signal_date": "2024-12-16",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "664.46",
+    "quantity": "1.238213054981487350988856583",
+    "price": "536.62816534423828125",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2024-12-23",
+    "signal_date": "2024-12-20",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.01",
+    "quantity": "2.395686606244042069640768306",
+    "price": "41.7458609733581545470",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-12-24",
+    "signal_date": "2024-12-23",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "109.30",
+    "quantity": "2.542068206869868116627295060",
+    "price": "42.9964859733581545470",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2024-12-30",
+    "signal_date": "2024-12-27",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.461823368077600850345976053",
+    "price": "40.6202984733581545470",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-01-06",
+    "signal_date": "2025-01-03",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.352595587892099794221525199",
+    "price": "42.506243110656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-01-08",
+    "signal_date": "2025-01-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "47.36",
+    "quantity": "1.175182057314582133281508152",
+    "price": "40.3001387786865234375",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-01-13",
+    "signal_date": "2025-01-10",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.699527910016301224157233357",
+    "price": "37.0435140266418454530",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-01-21",
+    "signal_date": "2025-01-17",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.367081790393994543883278217",
+    "price": "42.2461109733581545470",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-01-27",
+    "signal_date": "2025-01-24",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.576695607849212702395113721",
+    "price": "38.8093959159851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-02-03",
+    "signal_date": "2025-01-31",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.545524679515375169674544707",
+    "price": "39.284631889343264220",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-02-10",
+    "signal_date": "2025-02-07",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.4046559716093370318889138427",
+    "price": "247.12350",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2025-02-18",
+    "signal_date": "2025-02-14",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "0.3923917419461071891516716453",
+    "price": "254.847361221313471560",
+    "reason": "ATTACK_CORE"
+  },
+  {
+    "date": "2025-02-24",
+    "signal_date": "2025-02-21",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.365681064793047263350573234",
+    "price": "42.271125",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-03-03",
+    "signal_date": "2025-02-28",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.617520528817305760277245338",
+    "price": "38.2040938739776615080",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-03-10",
+    "signal_date": "2025-03-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.123438280859570214892553723",
+    "price": "32.01600",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-03-17",
+    "signal_date": "2025-03-14",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.230446776414400116979812158",
+    "price": "30.9554705343246458085",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-03-24",
+    "signal_date": "2025-03-21",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.072549300282102042652538093",
+    "price": "32.5462637786865234375",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-03-31",
+    "signal_date": "2025-03-28",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.653144106644884326562938272",
+    "price": "27.3736806106567377810",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-04-07",
+    "signal_date": "2025-04-04",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "106.62",
+    "quantity": "5.799549204989342063662046528",
+    "price": "18.3841875",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-04-09",
+    "signal_date": "2025-04-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "32.05",
+    "quantity": "1.652940371295073267449162666",
+    "price": "19.38968916034698330",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-04-14",
+    "signal_date": "2025-04-11",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "3.851638614602666246548197328",
+    "price": "25.9629757633209227265",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-04-15",
+    "signal_date": "2025-04-14",
+    "symbol": "TQQQ",
+    "side": "SELL",
+    "amount": "8456.460018331457939670237614",
+    "net": "8456.450018331457939670237614",
+    "quantity": "338.6985796059695776043497371",
+    "price": "24.9675095424652098360",
+    "fee": "0.01",
+    "pay_date": "2025-04-16",
+    "reason": "TREND_EXIT"
+  },
+  {
+    "date": "2025-04-16",
+    "signal_date": "2025-04-15",
+    "symbol": "SMH",
+    "side": "BUY",
+    "amount": "6116.48",
+    "quantity": "31.64952978076093500849843967",
+    "price": "193.256583663940434690",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2025-04-16",
+    "signal_date": "2025-04-15",
+    "symbol": "QQQ",
+    "side": "BUY",
+    "amount": "2339.97",
+    "quantity": "5.208562024938774102894060791",
+    "price": "449.25451377868654845",
+    "reason": "FULL_TQQQ_PROCEEDS_TO_CORE"
+  },
+  {
+    "date": "2025-06-24",
+    "signal_date": "2025-06-23",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "1000.00",
+    "quantity": "25.99142380141318469406778649",
+    "price": "38.474229331970217345",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-06-30",
+    "signal_date": "2025-06-27",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.414251722310397826786379004",
+    "price": "41.4207015266418454530",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-07-07",
+    "signal_date": "2025-07-03",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.391148966789668049453093935",
+    "price": "41.820899236679080275",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-07-08",
+    "signal_date": "2025-07-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "8.55",
+    "quantity": "0.2047371057208277294548781643",
+    "price": "41.76087167930603340",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-07-10",
+    "signal_date": "2025-07-09",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "2.84",
+    "quantity": "0.06676657063145379165123743681",
+    "price": "42.536256889343264220",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-07-14",
+    "signal_date": "2025-07-11",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.390291241661407023165297094",
+    "price": "41.8359061260223384920",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-07-21",
+    "signal_date": "2025-07-18",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.293746947504674981254529352",
+    "price": "43.596788263320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-07-28",
+    "signal_date": "2025-07-25",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.231276461058052809097258120",
+    "price": "44.817395668029782655",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-08-04",
+    "signal_date": "2025-08-01",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.345694052002070475343273440",
+    "price": "42.631305610656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-08-11",
+    "signal_date": "2025-08-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.167408031000408214008581708",
+    "price": "46.13805917930603340",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-08-18",
+    "signal_date": "2025-08-15",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.154095295271932635932719313",
+    "price": "46.4232015266418454530",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-08-25",
+    "signal_date": "2025-08-22",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.230529389072534611454616489",
+    "price": "44.8324063739776615080",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-09-02",
+    "signal_date": "2025-08-29",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.348725749517848296589536865",
+    "price": "42.576277805328367890",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-09-08",
+    "signal_date": "2025-09-05",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.151544958517054350189514718",
+    "price": "46.478229331970217345",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-09-15",
+    "signal_date": "2025-09-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.047317198121627810748546111",
+    "price": "48.844409694671632110",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-09-22",
+    "signal_date": "2025-09-19",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.951767755797754275471983834",
+    "price": "51.2356040840148923280",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-09-29",
+    "signal_date": "2025-09-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.944742175255840675701233632",
+    "price": "51.420697957992551835",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-10-06",
+    "signal_date": "2025-10-03",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "110.03",
+    "quantity": "2.047951786429979774168987470",
+    "price": "53.726850763320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-10-08",
+    "signal_date": "2025-10-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "2.72",
+    "quantity": "0.05143096194228532087150970869",
+    "price": "52.886430610656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-10-13",
+    "signal_date": "2025-10-10",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.958652309983132323367431777",
+    "price": "51.0555137786865234375",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-10-20",
+    "signal_date": "2025-10-17",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.892813642834302945364300862",
+    "price": "52.831402805328367890",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-10-27",
+    "signal_date": "2025-10-24",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.745547116963833924835378322",
+    "price": "57.28862832069396660",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-11-03",
+    "signal_date": "2025-10-31",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.665833749791770781276028652",
+    "price": "60.03000",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-11-10",
+    "signal_date": "2025-11-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.810196952119752122940826141",
+    "price": "55.242607652664183945",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-11-17",
+    "signal_date": "2025-11-14",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.933082321785645400152142627",
+    "price": "51.730854331970217345",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-11-24",
+    "signal_date": "2025-11-21",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.052361877241856366585057615",
+    "price": "48.724350763320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-12-01",
+    "signal_date": "2025-11-28",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.881943585743909687173275863",
+    "price": "53.136555610656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-12-08",
+    "signal_date": "2025-12-05",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.766837997643669983049440839",
+    "price": "56.598284694671632110",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-12-15",
+    "signal_date": "2025-12-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.848872039372306427543008195",
+    "price": "54.0870313739776615080",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-12-22",
+    "signal_date": "2025-12-19",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.823572751016423478987456431",
+    "price": "54.8374063739776615080",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-12-26",
+    "signal_date": "2025-12-24",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "148.62",
+    "quantity": "2.675535409071845749932756175",
+    "price": "55.547760457992551835",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2025-12-29",
+    "signal_date": "2025-12-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.841039294565931687658512585",
+    "price": "54.3171459159851076720",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-01-05",
+    "signal_date": "2026-01-02",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.852641771530171504324504416",
+    "price": "53.976975763320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-01-07",
+    "signal_date": "2026-01-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "11.48",
+    "quantity": "0.2090410456577563392725832234",
+    "price": "54.917444389343264220",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-01-09",
+    "signal_date": "2026-01-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "6.87",
+    "quantity": "0.1262468614395412389253103690",
+    "price": "54.417194389343264220",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-01-12",
+    "signal_date": "2026-01-09",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.830586589391203465844001275",
+    "price": "54.6272984733581545470",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-01-20",
+    "signal_date": "2026-01-16",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.944931429745051160040554523",
+    "price": "51.415694389343264220",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-01-26",
+    "signal_date": "2026-01-23",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.834955438729032652547926050",
+    "price": "54.4972362213134765625",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-02-02",
+    "signal_date": "2026-01-30",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.880173537893114369027597559",
+    "price": "53.186579847335816055",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-02-09",
+    "signal_date": "2026-02-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.996604519488357925653273337",
+    "price": "50.0850313739776615080",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-02-17",
+    "signal_date": "2026-02-13",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.098027419564243394844084706",
+    "price": "47.663819389343264220",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-02-23",
+    "signal_date": "2026-02-20",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.017969461959375635876038379",
+    "price": "49.5547637786865234375",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-03-02",
+    "signal_date": "2026-02-27",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.105984553636592746997408723",
+    "price": "47.4837290840148923280",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-03-09",
+    "signal_date": "2026-03-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.163888892815661896568459532",
+    "price": "46.2130936260223384920",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-03-16",
+    "signal_date": "2026-03-13",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.109985797787929512718867068",
+    "price": "47.3936839313507083830",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-03-23",
+    "signal_date": "2026-03-20",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.215695491801220283101744834",
+    "price": "45.132555610656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-03-30",
+    "signal_date": "2026-03-27",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.514466037421540801926080985",
+    "price": "39.769875",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-04-06",
+    "signal_date": "2026-04-02",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.292431845997239544183258574",
+    "price": "43.6217984733581545470",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-04-07",
+    "signal_date": "2026-04-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "10.60",
+    "quantity": "0.2438366504635917646577812722",
+    "price": "43.471725763320919725",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-04-09",
+    "signal_date": "2026-04-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "7.83",
+    "quantity": "0.1629755702190221571560286576",
+    "price": "48.044010457992551835",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-04-13",
+    "signal_date": "2026-04-10",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "2.048996053479338509049966381",
+    "price": "48.8043887786865234375",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-04-20",
+    "signal_date": "2026-04-17",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.711472985890508895845865914",
+    "price": "58.4292015266418454530",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-04-27",
+    "signal_date": "2026-04-24",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.601506573175400668138546819",
+    "price": "62.441204847335816055",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-05-04",
+    "signal_date": "2026-05-01",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.527353625590091066637430486",
+    "price": "65.472722442626953125",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-05-11",
+    "signal_date": "2026-05-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.315131907730345353638969989",
+    "price": "76.03800",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-05-18",
+    "signal_date": "2026-05-15",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.312886228733166559169140359",
+    "price": "76.168062252044678985",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-05-26",
+    "signal_date": "2026-05-22",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.240228682582942532678970047",
+    "price": "80.630291336059565310",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-06-01",
+    "signal_date": "2026-05-29",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.187760227868425156422338642",
+    "price": "84.19207652664183945",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-06-08",
+    "signal_date": "2026-06-05",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.300416656177399325119729434",
+    "price": "76.898430610656735780",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-06-15",
+    "signal_date": "2026-06-12",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.205960766165255985896305748",
+    "price": "82.921437252044678985",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-06-22",
+    "signal_date": "2026-06-18",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.190589977616420602444293948",
+    "price": "83.991971946716311095",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-06-29",
+    "signal_date": "2026-06-26",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.348489224012007239025069242",
+    "price": "74.157062747955321015",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-07-06",
+    "signal_date": "2026-07-02",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.323140372996227968503008964",
+    "price": "75.577770915985103670",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-07-07",
+    "signal_date": "2026-07-06",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "11.76",
+    "quantity": "0.1594860708988276402224508692",
+    "price": "73.736846946716311095",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-07-09",
+    "signal_date": "2026-07-08",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "22.15",
+    "quantity": "0.2957773010828720975879773667",
+    "price": "74.88742347335816055",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-07-13",
+    "signal_date": "2026-07-10",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.340891115641048705984437920",
+    "price": "74.577270915985103670",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-07-20",
+    "signal_date": "2026-07-17",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.438750874207838863226216933",
+    "price": "69.504736221313471560",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-07-27",
+    "signal_date": "2026-07-24",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.513018902231305648686198539",
+    "price": "66.093027557373046875",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-08-03",
+    "signal_date": "2026-07-31",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.544583934501855475780863668",
+    "price": "64.742354084014896330",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-08-10",
+    "signal_date": "2026-08-07",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.345765847652522399270166770",
+    "price": "74.30713164138793320",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-08-17",
+    "signal_date": "2026-08-14",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.291677804797173611816057846",
+    "price": "77.418687252044678985",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-08-24",
+    "signal_date": "2026-08-21",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.427857499821517812522310273",
+    "price": "70.03500",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-08-31",
+    "signal_date": "2026-08-28",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.399076449773127913950673964",
+    "price": "71.475722442626953125",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-09-08",
+    "signal_date": "2026-09-04",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.370116918009201535630872616",
+    "price": "72.986471946716311095",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-09-14",
+    "signal_date": "2026-09-11",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.480083322882401554554667405",
+    "price": "67.563763778686528440",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-09-21",
+    "signal_date": "2026-09-18",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.335694541517793561713298136",
+    "price": "74.867416831970217345",
+    "reason": "ATTACK_TARGET30"
+  },
+  {
+    "date": "2026-09-28",
+    "signal_date": "2026-09-25",
+    "symbol": "TQQQ",
+    "side": "BUY",
+    "amount": "100.00",
+    "quantity": "1.276663990531172046899637092",
+    "price": "78.329145915985103670",
+    "reason": "ATTACK_TARGET30"
+  }
+]

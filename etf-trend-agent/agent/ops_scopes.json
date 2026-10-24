@@ -1,0 +1,16 @@
+{
+  "scope": "ETF_LOCAL_LIVE",
+  "historical_records_are_read_only": true,
+  "no_automatic_strategy_changes": true,
+  "website_downloads": {
+    "scope": "WEBSITE_AND_DOWNLOADS_ONLY",
+    "policy_version": "etf_cycle_v3_sgov",
+    "targets": {
+      "SMH": "0.70",
+      "QQQ": "0.20",
+      "SGOV": "0.10"
+    },
+    "policy_sha256": "dbcb2d68dd0df4d517c55719498b45ec02adc0bac70c6cb400d43bd523476f82",
+    "affects_local_live": false
+  }
+}

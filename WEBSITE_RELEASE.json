@@ -1,0 +1,14 @@
+{
+  "release": "2026.10.24-RF-50200-audit1",
+  "website": "https://averra-ai.haomingzhang2002.chatgpt.site/agent/#agent/etf",
+  "site_version": 247,
+  "strategy_version": "2026.10.23-RF-50200-RESTORED",
+  "source_archive": {
+    "sha256": "caa91b420e5c9553e564db036554a14a13f0c1d0ed7a2abb8b4e23c2a5ffab8d",
+    "bytes": 566692,
+    "status": "PASS"
+  },
+  "source_download_url": "https://averra-ai.haomingzhang2002.chatgpt.site/download/Averra-ETF-Trend-RF-rc2-Source.zip",
+  "scope": "Exact sanitized website source, not private runtime; desktop apps remain read-only",
+  "broker_calls": 0
+}

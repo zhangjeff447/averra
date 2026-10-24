@@ -1,0 +1,92 @@
+2026-10-24 PUBLIC SOURCE UPDATE. These are operator-only examples for an existing compatible runtime, not an automatic installer. Place the source at the paths you choose and adjust all example paths. Do not execute against a running account without independent fresh acceptance.
+The provided plist templates include StartInterval60 and RunAtLoad; replace __ETF_RUNTIME__ yourself. Never load placeholders.
+
+ETF Return First 实盘执行候选 2026.10.23-RF-50200-RESTORED
+旧版回退编号 2026.10.15-8020-r1
+
+本包与 rc1 的区别：rc2 已实现真实接口、按股数卖出、成交对账、结算回款、定时启动、重复提交保护、回退账本前移和 Telegram 持仓报告。
+本包交付时未启用真实交易。本公开包不包含任何账户的验收结果。需在正常交易时段用新鲜报价重新验收资金和估值，不能直接改activation或跳过失败。
+
+以下步骤由你本人在Mac终端执行。模型未执行这里的停止、接受、加载服务命令。
+所有命令使用已有本机目录，不包含凭据，不需要把密码或验证码发到聊天。
+旧实盘源目录：
+/path/to/your/averra-workspace/production/etf-agent
+建议新运行目录：同一项目下 production/etf-return-first（必须不存在）。
+
+1. 打开终端，把项目根目录作为当前目录：
+cd '/path/to/your/averra-workspace'
+
+2. 停止旧交易与旧报告服务。旧代码、凭据及账本均保留：
+launchctl bootout "gui/$(id -u)/com.qqqsmh.agent"
+launchctl bootout "gui/$(id -u)/com.averra.etf.reports"
+如果显示服务本来就没有加载，可先用 launchctl list 核实；其他错误不要当成成功。
+新程序发现旧ETF执行器或旧报告服务仍加载时会拒绝启用，Stock/Finance服务不在此范围。
+应先停止，再复制账本，避免复制之后旧版又产生交易。
+
+3. 准备新目录。该命令只复制代码、依赖清单及完整账本，不启动服务；凭据仅引用旧路径：
+production/etf-agent/.venv/bin/python3 releases/etf-agent/2026.10.23-RF-50200-RESTORED/agent/deployment.py --source production/etf-agent --destination production/etf-return-first --python production/etf-return-first/.venv/bin/python3
+
+4. 为新版安装独立环境，不修改旧版环境：
+production/etf-agent/.venv/bin/python3 -m venv production/etf-return-first/.venv
+production/etf-return-first/.venv/bin/python3 -m pip install -r production/etf-return-first/agent/requirements.txt
+
+5. 下载三只ETF的真实历史并检查配置：
+production/etf-return-first/.venv/bin/python3 production/etf-return-first/agent/run_agent.py --download-history
+production/etf-return-first/.venv/bin/python3 production/etf-return-first/agent/run_agent.py --check-config
+应显示版本2026.10.23-RF-50200-RESTORED；SMH/QQQ只允许BUY，TQQQ允许BUY/SELL；固定每日/单笔金额上限为null，不代表允许借款。
+
+6. 在正常交易时段进行真实只读验收，下面这条不会下单：
+production/etf-return-first/.venv/bin/python3 production/etf-return-first/agent/run_agent.py --validate-read-only
+需要：账户与历史完整、无未知/未完成订单、无待处理审批、历史成交一致、当前可用自有资金与估值一致、报价新鲜、原生接口支持quantity卖出和ref_id。
+结果记录在 production/etf-return-first/evidence/read-only-acceptance.json。
+报价过期、资金未核实、未到账充值、对账失败、旧暂停状态都不会被放宽。
+若验收失败，保持旧版备份和全部账本，先解决报告的原因；不要删除state或清空订单记录。
+
+7. 验收PASS后15分钟内，由你本人记录本机启用许可：
+production/etf-return-first/.venv/bin/python3 production/etf-return-first/agent/run_agent.py --accept-local
+这条只记录本机许可、账户基线、代码/配置哈希，不下单、不启动服务。它不能代替真实只读验收。
+如果旧版存在暂停或未知订单，仍会阻止接受。
+
+8. 由你本人加载新版定时服务：
+launchctl bootstrap "gui/$(id -u)" "$PWD/production/etf-return-first/com.qqqsmh.agent.return-first.plist"
+launchctl bootstrap "gui/$(id -u)" "$PWD/production/etf-return-first/com.qqqsmh.agent.return-first-reports.plist"
+
+不需要另跑--live或kickstart来测试交易。
+交易窗口仍为纽约时间10:05、12:30、15:30，各5分钟；盘外及半日市收盘后不连接券商、不下单。
+加载后在下一个有效窗口运行。报告服务每分钟检查，只读券商；每日持仓15:31后生成一次，Telegram发送结果不确定时不会盲目重发。
+定时服务加载是否成功由launchctl print确认；有日志或文件不等于已成交。
+
+9. 状态查看：
+launchctl print "gui/$(id -u)/com.qqqsmh.agent.return-first"
+launchctl print "gui/$(id -u)/com.qqqsmh.agent.return-first-reports"
+日志位于 production/etf-return-first/logs，账本位于 production/etf-return-first/state。
+所有订单先原生预览，再以稳定ref_id最多提交一次；接受响应不等于成交，必须在完整券商历史中看到实际执行才能释放后续步骤。
+原生审批仍由券商控制；本程序不会替你审批或修改审批设置。
+
+回退（只有你手动执行；不要恢复旧数据库快照）
+A. 停止新版两个服务：
+launchctl bootout "gui/$(id -u)/com.qqqsmh.agent.return-first"
+launchctl bootout "gui/$(id -u)/com.qqqsmh.agent.return-first-reports"
+B. 把最新真实交易账本前移回旧运行目录。此工具不改旧代码、不启动服务、不下单：
+production/etf-return-first/.venv/bin/python3 production/etf-return-first/agent/rollback.py --current production/etf-return-first --previous production/etf-agent
+它验证两边账户、旧策略哈希、原有成交未丢失，先保留旧账本私有备份，再复制最新账本和暂停状态。
+C. 用旧版做只读验收：
+production/etf-agent/.venv/bin/python3 production/etf-agent/agent/run_agent.py --validate-read-only
+如果还有TQQQ持仓、未知订单、未结算事项或对账失败，旧版可能阻止运行。不要为了回退清零持仓或账本；需你独立处理并重新核对。
+D. 旧版只读验收通过后，才由你本人重新加载原来的两个服务：
+launchctl bootstrap "gui/$(id -u)" "$HOME/Library/LaunchAgents/com.qqqsmh.agent.plist"
+launchctl bootstrap "gui/$(id -u)" "$HOME/Library/LaunchAgents/com.averra.etf.reports.plist"
+
+规则与回测差异
+- 沿用选中的原收益优先逻辑，不设现金底仓，不增加分批/快速止损，QQQ/SMH不卖。
+- 长期信号QQQ SMA50>SMA200时，TQQQ优先向整个账户30%靠近，其余补SMH60%/QQQ10%的正缺口。
+- 长期信号关闭时退出TQQQ。实际净卖出回款至少等保守T+1日期且受券商现金/未结算资金再次约束，才按核心80/20缺口复投。回款不重复加入cash，不把承诺入金当现金。
+- 原始回测用次日开盘及模型成本成交；实盘是上述既定窗口、实时价差、分笔成交和券商审批。真实收益不能照搬回测。
+- 实盘额外保留$0.25手续费缓冲、6位小数卖出精度、每个策略动作每日一次、防未知订单重试。这些执行约束不在原始理想成交假设中。
+- 拆股、可可靠确认的user来源订单视为外部人工活动，不计为Agent提交；无法可靠归属或真实数量不一致时会停止等待复核，不会猜测修改历史。
+- 源码或策略在接受后改变会触发哈希检查，阻止实盘。不能把rc1的配置开关复制过来充当rc2验收。
+
+来源
+Robinhood原生交易支持：https://robinhood.com/us/en/support/articles/trading-with-your-agent/
+Robinhood结算说明：https://robinhood.com/us/en/support/articles/settlement-and-buying-power/
+交易所日历：https://github.com/gerrymanoim/exchange_calendars

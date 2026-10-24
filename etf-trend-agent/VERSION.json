@@ -1,0 +1,17 @@
+{
+  "version": "2026.10.24-RF-50200-audit1",
+  "edition": "trend",
+  "public_release": "2026-10-24",
+  "format": "Cross-platform source; live deployment utility is macOS-specific",
+  "platform": "Python source; separate macOS/Windows read-only desktop apps",
+  "default_mode": "not_activated",
+  "credentials_included": false,
+  "private_ledger_included": false,
+  "requires_existing_compatible_runtime": true,
+  "release_version": "2026.10.24-RF-50200-audit1",
+  "strategy_version": "2026.10.23-RF-50200-RESTORED",
+  "recovery_tests": 89,
+  "production_enabled": false,
+  "private_runtime_included": false,
+  "indicator_audit": "OFFLINE_INFORMATION_ONLY"
+}

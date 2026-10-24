@@ -1,0 +1,43 @@
+{
+  "name": "ETF Agent",
+  "version": "2026.10.23-RF-50200-RESTORED",
+  "reference_candidate": "old_uncapped_200_diagnostic",
+  "targets": {
+    "SMH": "0.60",
+    "QQQ": "0.10",
+    "TQQQ": "0.30"
+  },
+  "core_targets": {
+    "SMH": "0.80",
+    "QQQ": "0.20"
+  },
+  "cash_reserve": "0",
+  "daily_buy_limit": null,
+  "per_order_limit": null,
+  "broker_minimum": "1.00",
+  "fee_buffer": "0.25",
+  "slots_et": [
+    "10:05",
+    "12:30",
+    "15:30"
+  ],
+  "max_unresolved_intents": 1,
+  "activation": "REQUIRES_LOCAL_ACCEPTANCE",
+  "tqqq_stop_loss_pct": null,
+  "tqqq_stop_scope": "ALL_ACCOUNT_SHARES",
+  "tqqq_buy_requires_close_above_sma100": false,
+  "stop_monitor_interval_seconds": 60,
+  "per_window_buy_limit": null,
+  "intraday_enabled": false,
+  "intraday": {
+    "max_vwap_extension_pct": "0.5",
+    "max_quote_extension_pct": "0.3",
+    "min_volume_ratio": "0.5",
+    "max_fifteen_minute_drop_pct": "0.5",
+    "minute_max_age_seconds": 90,
+    "package_max_age_seconds": 60,
+    "max_spread_pct": "0.10"
+  },
+  "slow_ma_period": 200,
+  "tqqq_stop_loss_enabled": false
+}

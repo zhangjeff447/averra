@@ -1,0 +1,7 @@
+pandas>=2.2,<4
+numpy>=1.26.4,<3
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+yfinance>=0.2.54,<2
+exchange-calendars==4.13.2
+pytest>=8,<10
