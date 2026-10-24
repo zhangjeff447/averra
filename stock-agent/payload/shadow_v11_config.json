@@ -1,0 +1,22 @@
+{
+  "minimum_limited_evidence_coverage_pct": 40,
+  "limited_research_penalty": 0.82,
+  "limited_max_conviction": 72,
+  "limited_buy_tomorrow_threshold_add": 8,
+  "limited_position_size_fraction_of_full": 0.50,
+  "minimum_current_5m_bars": 60,
+  "required_full_15m_bars": 200,
+  "required_full_1h_bars": 200,
+  "max_daily_initial_calls": 10,
+  "max_daily_initial_cost_usd": 0.05,
+  "max_daily_initial_input_tokens": 80000,
+  "max_daily_initial_output_tokens": 18000,
+  "max_input_tokens_per_stock": 16000,
+  "max_cost_per_stock_usd": 0.008,
+  "deep_cost_estimate_input_usd_per_million": 2.5,
+  "deep_cost_estimate_output_usd_per_million": 10.0,
+  "evidence_max_age_hours": 72,
+  "evidence_source_check_hours": 12,
+  "candidate_rank_refresh_threshold": 10,
+  "minimum_evidence_coverage_pct": 40
+}

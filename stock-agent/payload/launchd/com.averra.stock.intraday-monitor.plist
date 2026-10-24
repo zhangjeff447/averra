@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.averra.stock.intraday-monitor</string>
+  <key>RunAtLoad</key><false/>
+  <key>KeepAlive</key><false/>
+  <key>StartInterval</key><integer>60</integer>
+  <key>WorkingDirectory</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent</string>
+  <key>ProgramArguments</key><array>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>/ABSOLUTE/PATH/TO/averra-stock-agent/intraday_runner.py</string>
+    <string>--run</string>
+  </array>
+  <key>StandardOutPath</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent/data/intraday_stdout.log</string>
+  <key>StandardErrorPath</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent/data/intraday_stderr.log</string>
+</dict></plist>

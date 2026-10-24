@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.averra.stock.shadow-v11</string>
+  <key>RunAtLoad</key><true/>
+  <key>KeepAlive</key><false/>
+  <key>StartInterval</key><integer>60</integer>
+  <key>WorkingDirectory</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent</string>
+  <key>ProgramArguments</key><array>
+    <string>/usr/bin/caffeinate</string><string>-i</string>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>/ABSOLUTE/PATH/TO/averra-stock-agent/shadow_daily_scheduler.py</string>
+  </array>
+  <key>StandardOutPath</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent/data/shadow_daily_stdout.log</string>
+  <key>StandardErrorPath</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent/data/shadow_daily_stderr.log</string>
+</dict></plist>

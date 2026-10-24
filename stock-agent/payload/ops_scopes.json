@@ -1,0 +1,5 @@
+{
+  "scope": "STOCK_MONITOR_ONLY",
+  "historical_records_are_read_only": true,
+  "no_automatic_strategy_changes": true
+}

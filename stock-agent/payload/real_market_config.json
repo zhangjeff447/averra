@@ -1,0 +1,35 @@
+{
+  "provider": "MASSIVE",
+  "history_sessions": 400,
+  "free_plan_min_request_spacing_seconds": 13,
+  "minimum_usable_sessions": 252,
+  "exchange_mics": {"XNAS": "NASDAQ", "XNYS": "NYSE", "XASE": "AMEX"},
+  "sector_etfs": ["XLK", "XLF", "XLV", "XLY", "XLP", "XLI", "XLE", "XLU", "XLB", "XLRE", "XLC"],
+  "sector_to_etf": {
+    "Technology": "XLK", "Financials": "XLF", "Healthcare": "XLV",
+    "Consumer Discretionary": "XLY", "Consumer Staples": "XLP",
+    "Industrials": "XLI", "Energy": "XLE", "Utilities": "XLU",
+    "Materials": "XLB", "Real Estate": "XLRE",
+    "Communication Services": "XLC"
+  },
+  "volatility": {
+    "primary_source": "YAHOO",
+    "history_range": "2y",
+    "regular_open_et": "09:30",
+    "regular_close_et": "16:15",
+    "last_close_min_time_et": "16:00",
+    "fresh_seconds": 2700,
+    "delayed_seconds": 7200,
+    "max_daily_jump_fraction": 0.8,
+    "unchanged_sessions_warning": 8,
+    "vix_regime_cuts": [15, 20, 30, 40],
+    "vxn_regime_cuts": [19, 26, 35, 45],
+    "market_proxy": {
+      "calm_max_volatility": 0.12,
+      "normal_max_volatility": 0.22,
+      "elevated_max_volatility": 0.35,
+      "high_risk_max_volatility": 0.50
+    },
+    "maximum_proxy_lag_calendar_days": 4
+  }
+}

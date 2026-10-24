@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.averra.stock.commands</string>
+  <key>RunAtLoad</key><true/>
+  <key>KeepAlive</key><true/>
+  <key>ThrottleInterval</key><integer>30</integer>
+  <key>WorkingDirectory</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent</string>
+  <key>EnvironmentVariables</key><dict>
+    <key>STOCK_DB_FILE</key><string>data/stock_agent.db</string>
+    <key>STOCK_ALERTS_ENABLED</key><string>false</string>
+  </dict>
+  <key>ProgramArguments</key><array>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>/ABSOLUTE/PATH/TO/averra-stock-agent/stock_agent.py</string>
+    <string>serve-commands</string>
+  </array>
+  <key>StandardOutPath</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent/data/commands_stdout.log</string>
+  <key>StandardErrorPath</key><string>/ABSOLUTE/PATH/TO/averra-stock-agent/data/commands_stderr.log</string>
+</dict></plist>

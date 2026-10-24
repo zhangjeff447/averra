@@ -1,0 +1,48 @@
+{
+  "corporate_actions": {
+    "jump_threshold": 0.45,
+    "event_date_tolerance_days": 3,
+    "adjusted_continuity_tolerance": 0.35,
+    "raw_split_ratio_tolerance": 0.2,
+    "true_move_min_rvol": 2.5,
+    "true_move_max_next_day_reversal": 0.35,
+    "extreme_jump_quarantine": 1.5
+  },
+  "sector_mapping": {
+    "source": "NASDAQ_SCREENER_NON_GICS",
+    "confidence_for_known_nasdaq_sector": "MEDIUM",
+    "confidence_for_missing": "UNKNOWN",
+    "sector_rs_min_confidence": "MEDIUM",
+    "fallback_benchmark": "SPY_QQQ",
+    "verified_ticker_overrides": {
+      "META": {"sector": "Communication Services", "confidence": "HIGH", "source": "STATE_STREET_XLC_HOLDINGS_2026-09-22"}
+    },
+    "sector_to_etf": {
+      "Technology": "XLK", "Financials": "XLF", "Healthcare": "XLV",
+      "Consumer Discretionary": "XLY", "Consumer Staples": "XLP",
+      "Industrials": "XLI", "Energy": "XLE", "Utilities": "XLU",
+      "Materials": "XLB", "Real Estate": "XLRE", "Communication Services": "XLC"
+    },
+    "low_confidence_industry_contains": ["Medical Instruments", "Medical Devices", "Biotechnology", "Internet Content", "Telecommunications Equipment"]
+  },
+  "technical_groups": {
+    "MACD": ["macd_above_zero"],
+    "MACD histogram": ["macd_hist_pct", "macd_hist_slope_pct"],
+    "MACD acceleration": ["macd_hist_acceleration_pct"],
+    "RSI": ["rsi14"],
+    "KDJ": ["kdj_k", "kdj_spread"],
+    "EMA trend": ["distance_ema9", "distance_ema21"],
+    "SMA trend": ["distance_sma50", "distance_sma200"],
+    "ADX": ["adx14"],
+    "Bollinger": ["bollinger_width"],
+    "MA distance": ["distance_sma20"]
+  },
+  "correlation": {"high": 0.8, "moderate": 0.65},
+  "forward": {
+    "horizons": [1, 5, 10, 20, 60],
+    "excursion_horizons": [5, 10, 20],
+    "score_buckets": [[90, 101], [80, 90], [70, 80], [60, 70], [0, 60]],
+    "rank_buckets": [5, 10, 20, 50, 100],
+    "minimum_independent_scan_dates": 20
+  }
+}

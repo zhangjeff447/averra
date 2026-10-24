@@ -1,0 +1,13 @@
+{
+  "build": "20261015.2",
+  "payload_release": "stock_validation_20261016",
+  "automatic_services_installed": false,
+  "payload_updated_at": "2026-10-16",
+  "payload_changes": [
+    "Per-request source latency/retry diagnostics without credentials",
+    "Verified OKTA, VEEV and DINO official IR feeds; bounded collection",
+    "Read-only Shadow evaluation with explicit timing/sample limitations",
+    "Code/config fingerprints for future daily runs; frozen strategy unchanged"
+  ],
+  "offline_source_tests": 499
+}

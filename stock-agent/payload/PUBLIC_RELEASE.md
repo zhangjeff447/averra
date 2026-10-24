@@ -1,0 +1,1 @@
+2026-10-14 public source refresh. Monitor only; no brokerage connection or orders. Includes validated Cboe VXN closing-quote fallback. No credentials, holdings, runtime records or enabled intraday service are included. Desktop source refresh does not restart or upgrade an existing installed workspace automatically.

@@ -1,0 +1,14 @@
+{
+  "release": "2026-10-15",
+  "mode": "MONITOR_ONLY",
+  "credentials_included": false,
+  "runtime_state_included": false,
+  "intraday_enabled_by_default": false,
+  "market_data_fix": "strict Cboe VXN closing quote fallback",
+  "operations": [
+    "run_history",
+    "settings_history",
+    "saved_research_search"
+  ],
+  "offline_tests_passed": 484
+}

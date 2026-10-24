@@ -1,0 +1,20 @@
+{
+  "build": "20261015.2",
+  "payload_changes": [
+    "Per-request source latency/retry diagnostics without credentials",
+    "Verified OKTA, VEEV and DINO official IR feeds; bounded collection",
+    "Read-only Shadow evaluation with explicit timing/sample limitations",
+    "Code/config fingerprints for future daily runs; frozen strategy unchanged"
+  ],
+  "payload_release": "stock_validation_20261016",
+  "source_sha256": {
+    "src/App.swift": "f360978b6142ce7f99cdd95431b6eee05faf3ed265f7bcd8b6d3781f5ebf1391",
+    "src/Language.swift": "14f2b0cc3b6b9ebbafd56851d14bc3394767d2c7950a98e70e58a47bc4aac2f2",
+    "src/Telegram.swift": "ca0b01b55e3279fb839a5c72cc67e3f010834d14132f1f40e7010b664e8655b3",
+    "src/bridge.py": "ce574b853cfbae5da3f93cc195b15497ec6260b7ee229f845f0e6f492121198e",
+    "src/stock_bridge.py": "84c226a00f11bbdfb8059b834e25b3ed7b2c01a0cd21e6f9da0aed0026179482"
+  },
+  "automatic_services_installed": false,
+  "payload_updated_at": "2026-10-16",
+  "offline_source_tests": 499
+}

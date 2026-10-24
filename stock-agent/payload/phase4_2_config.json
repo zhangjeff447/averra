@@ -1,0 +1,66 @@
+{
+  "window_days": 90,
+  "max_8k_filings": 8,
+  "max_periodic_filings": 2,
+  "max_exhibits_per_filing": 2,
+  "max_document_bytes": 5000000,
+  "minimum_request_spacing_seconds": 0.25,
+  "timeout_seconds": 25,
+  "retry_seconds": [5, 15, 30],
+  "packet_target_tokens": 8000,
+  "max_ir_releases_per_ticker": 6,
+  "materiality_by_item": {
+    "1.01": "HIGH", "1.02": "HIGH", "2.01": "MATERIAL", "2.02": "HIGH",
+    "2.05": "HIGH", "2.06": "MATERIAL", "3.01": "HIGH", "3.02": "HIGH",
+    "4.01": "MATERIAL", "4.02": "MATERIAL", "5.02": "HIGH", "7.01": "MEDIUM",
+    "8.01": "MEDIUM", "9.01": "LOW"
+  },
+  "materiality_by_event": {
+    "RESTATEMENT": "MATERIAL", "AUDITOR_CHANGE": "MATERIAL", "ACQUISITION": "MATERIAL",
+    "FINANCING": "HIGH", "GUIDANCE": "HIGH", "EARNINGS": "HIGH",
+    "EXECUTIVE_CHANGE": "HIGH", "SHARE_OFFERING": "HIGH", "LEGAL_REGULATORY": "HIGH",
+    "MAJOR_CONTRACT": "HIGH", "STRATEGIC_PARTNERSHIP": "HIGH",
+    "EARNINGS_SCHEDULE": "LOW", "OFFICIAL_RELEASE": "LOW", "GENERIC_RELEASE": "LOW"
+  },
+  "verified_ir": {
+    "OKTA": {
+      "company_name": "Okta, Inc.",
+      "cik": "0001660134",
+      "hosts": ["investor.okta.com"],
+      "feeds": ["https://investor.okta.com/rss/pressrelease.aspx"],
+      "verified_at": "2026-10-16",
+      "verification_source": "https://investor.okta.com/overview/default.aspx"
+    },
+    "VEEV": {
+      "company_name": "Veeva Systems Inc.",
+      "cik": "0001393052",
+      "hosts": ["ir.veeva.com"],
+      "feeds": ["https://ir.veeva.com/rss/pressrelease.aspx"],
+      "verified_at": "2026-10-16",
+      "verification_source": "https://ir.veeva.com/"
+    },
+    "DINO": {
+      "company_name": "HF Sinclair Corporation",
+      "cik": "0001915657",
+      "hosts": ["investor.hfsinclair.com"],
+      "feeds": ["https://investor.hfsinclair.com/rss/pressrelease.aspx"],
+      "verified_at": "2026-10-16",
+      "verification_source": "https://investor.hfsinclair.com/"
+    },
+    "CDNA": {
+      "company_name": "CareDx, Inc.",
+      "hosts": ["investors.caredx.com"],
+      "feeds": []
+    },
+    "AMD": {
+      "company_name": "Advanced Micro Devices, Inc.",
+      "hosts": ["ir.amd.com"],
+      "feeds": ["https://ir.amd.com/news-events/press-releases/rss"]
+    },
+    "META": {
+      "company_name": "Meta Platforms, Inc.",
+      "hosts": ["investor.atmeta.com"],
+      "feeds": ["https://investor.atmeta.com/rss/pressrelease.aspx"]
+    }
+  }
+}

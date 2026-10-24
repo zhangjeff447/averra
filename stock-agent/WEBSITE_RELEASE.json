@@ -1,0 +1,41 @@
+{
+  "edition": "stock",
+  "mode": "MONITOR_ONLY",
+  "reviewed_on": "2026-10-24",
+  "website_site_version": 247,
+  "desktop_payload_release": "stock_validation_20261016",
+  "embedded_payload_version": "2026-10-15 STOCK_MONITOR_ONLY OPERATIONS_REFRESH",
+  "embedded_release_metadata": {
+    "release": "2026-10-15",
+    "mode": "MONITOR_ONLY",
+    "credentials_included": false,
+    "runtime_state_included": false,
+    "intraday_enabled_by_default": false,
+    "market_data_fix": "strict Cboe VXN closing quote fallback",
+    "operations": [
+      "run_history",
+      "settings_history",
+      "saved_research_search"
+    ],
+    "offline_tests_passed": 484
+  },
+  "canonical_sanitized_files_matched": 162,
+  "platform_payload_files": 165,
+  "mac_windows_payloads_identical": true,
+  "code_update_found": false,
+  "website_packages": {
+    "Averra-Stock-Agent.zip": {
+      "sha256": "ff1d4c6af20bb5bbc0d7eb8cdb370d602308aef21ad407faf2aa83ad48a1419b",
+      "bytes": 20560361,
+      "url": "https://averra-ai.haomingzhang2002.chatgpt.site/download/Averra-Stock-Agent.zip"
+    },
+    "Averra-Stock-Windows-x64.zip": {
+      "sha256": "5d2a5dbd0f182f07ee01392b7ec74fdf22a8b6601ff149ad5875f13eae8e7b17",
+      "bytes": 13763538,
+      "url": "https://averra-ai.haomingzhang2002.chatgpt.site/download/Averra-Stock-Windows-x64.zip"
+    }
+  },
+  "broker_connection": false,
+  "live_order_execution": false,
+  "automatic_service_install": false
+}

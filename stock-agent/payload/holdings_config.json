@@ -1,0 +1,16 @@
+{
+  "minimum_daily_bars": 60,
+  "ema_period": 21,
+  "sma_period": 50,
+  "confirmation_bars": 2,
+  "rsi_period": 14,
+  "profit_review_rsi": 80,
+  "profit_review_extension_atr": 2,
+  "trailing_lookback_bars": 20,
+  "trailing_ema_period": 9,
+  "trailing_rally_atr": 2,
+  "trailing_pullback_atr": 1.5,
+  "sell_review_half_width_atr": 0.25,
+  "max_single_day_move_pct": 40,
+  "current_daily_source": "ALPACA_SIP"
+}

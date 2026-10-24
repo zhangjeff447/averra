@@ -1,0 +1,13 @@
+{
+  "timezone": "America/New_York",
+  "scan_times": ["10:05", "12:30", "15:30", "16:05"],
+  "event_poll_seconds": 300,
+  "minimum_cash_fraction": 0.15,
+  "maximum_single_stock_fraction": 0.20,
+  "maximum_sector_fraction": 0.35,
+  "maximum_correlated_fraction": 0.35,
+  "correlation_threshold": 0.80,
+  "maximum_ai_calls_per_day": 3,
+  "maximum_messages_per_scan": 5
+}
+

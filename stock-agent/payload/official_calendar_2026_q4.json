@@ -1,0 +1,37 @@
+{
+  "events": [
+    {"event_id":"BLS:NFP:2026-10-02","event_name":"Employment Situation","event_type":"NFP","date":"2026-10-02","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/10_sched.htm","impact_level":"MATERIAL"},
+    {"event_id":"BLS:CPI:2026-10-14","event_name":"Consumer Price Index","event_type":"CPI","date":"2026-10-14","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/10_sched.htm","impact_level":"MATERIAL"},
+    {"event_id":"BLS:PPI:2026-10-15","event_name":"Producer Price Index","event_type":"PPI","date":"2026-10-15","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/10_sched.htm","impact_level":"HIGH"},
+    {"event_id":"BLS:JOLTS:2026-11-03","event_name":"Job Openings and Labor Turnover","event_type":"JOLTS","date":"2026-11-03","scheduled_time_et":"10:00","source_url":"https://www.bls.gov/schedule/2026/11_sched.htm","impact_level":"HIGH"},
+    {"event_id":"BLS:NFP:2026-11-06","event_name":"Employment Situation","event_type":"NFP","date":"2026-11-06","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/11_sched.htm","impact_level":"MATERIAL"},
+    {"event_id":"BLS:CPI:2026-11-10","event_name":"Consumer Price Index","event_type":"CPI","date":"2026-11-10","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/11_sched.htm","impact_level":"MATERIAL"},
+    {"event_id":"BLS:PPI:2026-11-13","event_name":"Producer Price Index","event_type":"PPI","date":"2026-11-13","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/11_sched.htm","impact_level":"HIGH"},
+    {"event_id":"BLS:JOLTS:2026-12-01","event_name":"Job Openings and Labor Turnover","event_type":"JOLTS","date":"2026-12-01","scheduled_time_et":"10:00","source_url":"https://www.bls.gov/schedule/2026/12_sched.htm","impact_level":"HIGH"},
+    {"event_id":"BLS:NFP:2026-12-04","event_name":"Employment Situation","event_type":"NFP","date":"2026-12-04","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/12_sched.htm","impact_level":"MATERIAL"},
+    {"event_id":"BLS:CPI:2026-12-10","event_name":"Consumer Price Index","event_type":"CPI","date":"2026-12-10","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/12_sched.htm","impact_level":"MATERIAL"},
+    {"event_id":"BLS:PPI:2026-12-15","event_name":"Producer Price Index","event_type":"PPI","date":"2026-12-15","scheduled_time_et":"08:30","source_url":"https://www.bls.gov/schedule/2026/12_sched.htm","impact_level":"HIGH"},
+    {"event_id":"BEA:GDP:2026-10-29","event_name":"GDP Advance Estimate","event_type":"GDP","date":"2026-10-29","scheduled_time_et":"08:30","source_url":"https://www.bea.gov/news/schedule/full","impact_level":"MATERIAL"},
+    {"event_id":"BEA:PCE:2026-10-29","event_name":"Personal Income and Outlays","event_type":"PCE","date":"2026-10-29","scheduled_time_et":"08:30","source_url":"https://www.bea.gov/news/schedule/full","impact_level":"MATERIAL"},
+    {"event_id":"BEA:GDP:2026-11-25","event_name":"GDP Second Estimate","event_type":"GDP","date":"2026-11-25","scheduled_time_et":"08:30","source_url":"https://www.bea.gov/news/schedule/full","impact_level":"HIGH"},
+    {"event_id":"BEA:PCE:2026-11-25","event_name":"Personal Income and Outlays","event_type":"PCE","date":"2026-11-25","scheduled_time_et":"08:30","source_url":"https://www.bea.gov/news/schedule/full","impact_level":"MATERIAL"},
+    {"event_id":"BEA:GDP:2026-12-23","event_name":"GDP Third Estimate","event_type":"GDP","date":"2026-12-23","scheduled_time_et":"08:30","source_url":"https://www.bea.gov/news/schedule/full","impact_level":"HIGH"},
+    {"event_id":"BEA:PCE:2026-12-23","event_name":"Personal Income and Outlays","event_type":"PCE","date":"2026-12-23","scheduled_time_et":"08:30","source_url":"https://www.bea.gov/news/schedule/full","impact_level":"MATERIAL"},
+    {"event_id":"FED:FOMC_DECISION:2026-10-28","event_name":"FOMC Statement and Decision","event_type":"FOMC_DECISION","date":"2026-10-28","scheduled_time_et":"14:00","source_url":"https://www.federalreserve.gov/newsevents/2026-october.htm","impact_level":"MATERIAL"},
+    {"event_id":"FED:FED_CHAIR_PRESS_CONFERENCE:2026-10-28","event_name":"Fed Chair Press Conference","event_type":"FED_CHAIR_PRESS_CONFERENCE","date":"2026-10-28","scheduled_time_et":"14:30","source_url":"https://www.federalreserve.gov/newsevents/2026-october.htm","impact_level":"MATERIAL"},
+    {"event_id":"FED:FOMC_DECISION:2026-12-09","event_name":"FOMC Statement and Decision","event_type":"FOMC_DECISION","date":"2026-12-09","scheduled_time_et":"14:00","source_url":"https://www.federalreserve.gov/newsevents/2026-december.htm","impact_level":"MATERIAL"},
+    {"event_id":"FED:FED_CHAIR_PRESS_CONFERENCE:2026-12-09","event_name":"Fed Chair Press Conference","event_type":"FED_CHAIR_PRESS_CONFERENCE","date":"2026-12-09","scheduled_time_et":"14:30","source_url":"https://www.federalreserve.gov/newsevents/2026-december.htm","impact_level":"MATERIAL"}
+  ],
+  "market_sessions": [
+    {"date":"2026-11-26","session_type":"HOLIDAY","source_url":"https://www.nyse.com/trade/hours-calendars"},
+    {"date":"2026-11-27","session_type":"EARLY_CLOSE","close_time_et":"13:00","source_url":"https://www.nyse.com/trade/hours-calendars"},
+    {"date":"2026-12-24","session_type":"EARLY_CLOSE","close_time_et":"13:00","source_url":"https://www.nyse.com/trade/hours-calendars"},
+    {"date":"2026-12-25","session_type":"HOLIDAY","source_url":"https://www.nyse.com/trade/hours-calendars"}
+  ],
+  "coverage": [
+    {"authority":"BLS","verified_through":"2026-12-31","source":"https://www.bls.gov/schedule/2026/12_sched.htm"},
+    {"authority":"BEA","verified_through":"2026-12-31","source":"https://www.bea.gov/news/schedule/full"},
+    {"authority":"FED","verified_through":"2026-12-31","source":"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"},
+    {"authority":"NYSE","verified_through":"2026-12-31","source":"https://www.nyse.com/trade/hours-calendars"}
+  ]
+}

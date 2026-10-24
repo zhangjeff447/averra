@@ -1,0 +1,31 @@
+{
+  "enabled": false,
+  "architecture_status": "FROZEN_V1",
+  "initial_research_model": "gpt-5.6-luna",
+  "deep_research_model": "gpt-6-sol",
+  "web_search_enabled": false,
+  "max_daily_initial_ai_cost": null,
+  "max_daily_deep_ai_cost": null,
+  "max_daily_total_ai_cost": null,
+  "max_initial_calls": null,
+  "max_deep_calls": null,
+  "escalation_threshold": 55,
+  "hard_escalation_candidate_threshold": 80,
+  "candidate_score_refresh_threshold": 5,
+  "escalation_weights": {
+    "candidate_strength": 7,
+    "initial_research_strength": 3,
+    "catalyst_strength": 5,
+    "low_thesis_confidence": 7,
+    "low_evidence_confidence": 6,
+    "material_event": 9,
+    "high_risk_event": 11,
+    "evidence_conflict": 10,
+    "accounting_risk": 12,
+    "regulatory_risk": 10,
+    "earnings_imminent": 7,
+    "score_disagreement": 5,
+    "evidence_complexity": 4,
+    "research_uncertainty": 4
+  }
+}
