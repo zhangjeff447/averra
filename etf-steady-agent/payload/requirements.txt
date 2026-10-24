@@ -1,0 +1,5 @@
+# Runtime dependencies for paper/shadow deployment.
+pandas>=2.0,<3
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+yfinance>=0.2.54,<2

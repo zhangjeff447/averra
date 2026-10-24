@@ -1,0 +1,39 @@
+{
+  "version": "cash_regime_v2",
+  "minimum_buy_score": 25,
+  "light_intercept": "0.25",
+  "light_slope": "0.75",
+  "entry_confirmation_sessions": 2,
+  "exit_confirmation_sessions": 2,
+  "recovery_confirmation_sessions": 2,
+  "peak_lookback_sessions": 60,
+  "volatility_median_sessions": 252,
+  "volatility_change_sessions": 5,
+  "volatility_increase": "0.05",
+  "stages": [
+    {
+      "id": "D5",
+      "drawdown": "0.05",
+      "fraction": "0.20"
+    },
+    {
+      "id": "D10",
+      "drawdown": "0.10",
+      "fraction": "0.30"
+    },
+    {
+      "id": "D20",
+      "drawdown": "0.20",
+      "fraction": "0.50"
+    }
+  ],
+  "unconfirmed_probe_amount": "0.00",
+  "forced_investment_deadline": null,
+  "market_mode": "shared ETF risk episode; either ETF can confirm entry, both must confirm exit",
+  "macro_role": "research_only_no_trade_gate",
+  "smh_policy_version": "SMH_EMA20_PULLBACK",
+  "qqq_normal_curve": "QQQ_SCORE25_50_EXP75_FULL",
+  "smh_d20_release_fraction": "0.25",
+  "smh_normal_rule": "100%Base only EMA20 pullback or RSI14<=50; weak trend and overheat WAIT",
+  "smh_risk_rule": "current60session drawdown5/10/20; cumulative finite grants20/30/25; score60+40clip(drawdown60/.20); localSMH2clear-session normal recovery"
+}

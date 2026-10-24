@@ -1,0 +1,52 @@
+{
+  "SMH": {
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2963,
+    "sha256": "2d1a86ada39c5595a40005dde3e53adeccf86e3efc7a4403f00eeee568a1f62d",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "dividends": "ex-date only; not authoritative broker payable-date cash",
+    "retrieved_at": "2026-10-15T11:26:59.129410+00:00"
+  },
+  "QQQ": {
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2963,
+    "sha256": "a4276f502f1f68efead860fe6170d0b47f1efde47df1337219888ac53d7818c7",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "dividends": "ex-date only; not authoritative broker payable-date cash",
+    "retrieved_at": "2026-10-15T11:26:59.321975+00:00"
+  },
+  "^VIX": {
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2965,
+    "sha256": "fd40ab3363e8b84768dea0cabb35da4afda77768114e7c0f933b6384c8281648",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "dividends": "ex-date only; not authoritative broker payable-date cash",
+    "retrieved_at": "2026-10-15T11:26:59.661441+00:00"
+  },
+  "^VXN": {
+    "first": "2015-01-02",
+    "last": "2026-10-14",
+    "rows": 2963,
+    "sha256": "d91d702c1be49f93bf3a47675a1050adb58dce6d07da50606ac1b01179a38e13",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "dividends": "ex-date only; not authoritative broker payable-date cash",
+    "retrieved_at": "2026-10-15T11:26:59.828264+00:00"
+  },
+  "SGOV": {
+    "rows": 1602,
+    "first": "2020-06-01",
+    "last": "2026-10-14",
+    "sha256": "9e3d6e8aa89f22ee0c22f14a26235388c0af2650baf649742e1b0a42ed8ca725",
+    "source": "Yahoo Finance via yfinance",
+    "auto_adjust": false,
+    "retrieved_at": "2026-10-15T05:27:40.711789+00:00",
+    "dividends": "ex-date records; not immediately spendable broker cash"
+  }
+}

@@ -1,0 +1,1 @@
+Public ETF Agent V3. SMH/QQQ/SGOV rules; public entry permits configuration and read-only validation only. No scheduler or live entry. Keep financial ledgers and credentials private. Website allocations are drafts, not a configuration write. Preserve existing records when migrating.

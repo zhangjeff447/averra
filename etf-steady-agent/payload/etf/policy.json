@@ -1,0 +1,28 @@
+{
+  "name": "ETF Agent",
+  "version": "etf_cycle_v3_sgov",
+  "targets": {
+    "SMH": "0.70",
+    "QQQ": "0.20",
+    "SGOV": "0.10"
+  },
+  "normal_tolerance": "0.005",
+  "pullback_sgov_cap": "0.20",
+  "recovery_sgov_cap": "0.05",
+  "daily_buy_limit": "100.00",
+  "daily_sell_limit": "100.00",
+  "per_order_limit": "100.00",
+  "broker_minimum": "1.00",
+  "fee_buffer": "0.25",
+  "entry_sessions": 2,
+  "recovery_sessions": 3,
+  "normal_sessions": 10,
+  "sgov_reverse_cooldown_sessions": 5,
+  "slots_et": [
+    "10:05",
+    "12:30",
+    "15:30"
+  ],
+  "max_unresolved_intents": 1,
+  "activation": "PUBLIC_READ_ONLY"
+}

@@ -1,0 +1,33 @@
+{
+  "edition": "steady",
+  "strategy": "etf_cycle_v3_sgov",
+  "release": "2026-10-15 operations",
+  "reviewed_on": "2026-10-24",
+  "website_site_version": 247,
+  "targets": {
+    "SMH": "0.70",
+    "QQQ": "0.20",
+    "SGOV": "0.10"
+  },
+  "code_update_found": false,
+  "canonical_payload_files_matched": 78,
+  "windows_overrides": [
+    "qqq_mcp_adapter.py",
+    "tools/ops_utils.py",
+    "tools/windows_lock.py"
+  ],
+  "website_packages": {
+    "Averra-Agent-Public.zip": {
+      "sha256": "2aed11cc2a707dbfd4c474a2b9f8ff05e7950fd8d13d49375804ce09942a0007",
+      "bytes": 21551085,
+      "url": "https://averra-ai.haomingzhang2002.chatgpt.site/download/Averra-Agent-Public.zip"
+    },
+    "Averra-Agent-Windows-x64.zip": {
+      "sha256": "3a41c4bba99d7e1f475089e6c48de6cff4ec64f5379388ebcf4f29f267ad3bfa",
+      "bytes": 13811619,
+      "url": "https://averra-ai.haomingzhang2002.chatgpt.site/download/Averra-Agent-Windows-x64.zip"
+    }
+  },
+  "public_execution": "READ_ONLY_VALIDATION",
+  "live_changes": false
+}

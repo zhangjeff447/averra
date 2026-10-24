@@ -1,0 +1,10 @@
+{
+  "build": "20261015.2",
+  "payload_release": "etf_cycle_v3_sgov_operations",
+  "source_sha256": {
+    "desktop-app/src/App.swift": "de16fbcabbf93c59e37f56344bb0b98f503236e9bd9e8424e1bef889e09a3941",
+    "desktop-app/src/bridge.py": "3d594bead638f9dbdb1fd63e0f4570c878f2812605f51562138d930cfce73a53"
+  },
+  "sgov_daily_sha256": "9e3d6e8aa89f22ee0c22f14a26235388c0af2650baf649742e1b0a42ed8ca725",
+  "automatic_services_installed": false
+}

@@ -1,0 +1,18 @@
+{
+  "release": "2026-10-15",
+  "strategy": "etf_cycle_v3_sgov",
+  "default_mode": "READ_ONLY_VALIDATION",
+  "default_weights": {
+    "SMH": "0.70",
+    "QQQ": "0.20",
+    "SGOV": "0.10"
+  },
+  "live_entry": false,
+  "account_data_included": false,
+  "orders_per_cycle": 1,
+  "max_unresolved_intents": 1,
+  "operations_release": "2026-10-15",
+  "runtime_llm_calls": 0,
+  "automatic_service_install": false,
+  "public_activation": "PUBLIC_READ_ONLY"
+}
